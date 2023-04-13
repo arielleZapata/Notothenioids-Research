@@ -1,0 +1,53 @@
+Old,New,Pending
+CHAENOCEPHALUS ACERATUS,chaenocephalus_aceratus-channichthyidae,artedidraco_mirus-artedidraconidae                    
+CHAMPSOCEPHALUS GUNNARI,champsocephalus_gunnari-channichthyidae,histiodraco_velifer-artedidraconidae                  
+CHIONODRACO RASTROSPINOSUS,chionodraco_rastrospinosus-channichthyidae,pogonophryne_fusca-nototheniidae                      
+CRYODRACO ANTARCTICUS,cryodraco_antarcticus-channichthyidae,pogonophryne_cerebropogon-nototheniidae               
+DISSOSTICHUS MAWSONI,nototheniid_dissostichus mawsoni-artedidraconidae,pogonophryne_immaculata-nototheniidae                 
+GOBIONOTOTHEN GIBBERIFRONS,nototheniid_gobinotothen gibberifrons-artedidraconidae,champsocephalus_esox-channichthyidae                  
+GYMNODRACO ACUTICEPS,gymnodraco_acuticeps-bathydraconidae,c_hamatus-artedidraconidae                            
+LEPIDONOTOTHEN LARSENI,lepi_lars-trematominae,bathydraco_macrolepis-bathydraconidae                 
+LEPIDONOTOTHEN NUDIFRONS,lepi_nudi-trematominae,parachaenichthys_georgianus-artedidraconidae          
+LEPIDONOTOTHEN SQUAMIFRONS,lepi_squa-trematominae,cygnodraco_mawsoni-artedidraconidae                   
+NEOPAGETOPSIS IONAH,~,nototheniids_dissostichus eleginoides-artedidraconidae
+NOTOTHENIA CORIICEPS,notothenia_corriceps-nototheniidae,patagonotothen_sima-trematominae                      
+NOTOTHENIA ROSSII,~,patagonotothen_elegans-trematominae                   
+PARACHAENICHTHYS CHARCOTI,parachaenichthys_charcoti-artedidraconidae,patagontothen_ramsayi-trematominae                    
+PLEURAGRAMMA ANTARCTICUM,nototheniids_pleuragramma antarcticum-artedidraconidae,patagonotothen_guntheri-trematominae                  
+PSEUDOCHAENICHTHYS GEORGIANUS,pseudochaenichthys georgianus-channichthyidae,patagonotothen_tesselata-trematominae                 
+TREMATOMUS EULEPIDOTUS,trematomus_eulepidotus-trematominae,nototheniids_trematomus lepidorhinus-artedidraconidae 
+TREMATOMUS HANSONI,trematomus_hansoni-trematominae,trematomus_borsch-trematominae                        
+CHAENODRACO WILSONI,chaenodraco_wilsoni-channichthyidae,
+CHIONOBATHYSCUS DEWITTI,chionobathyscus_dewitti-channichthyidae,
+DOLLOIDRACO LONGEDORSALIS,dolloidraco_longedorsalis-artedidraconidae,
+GERLACHEA AUSTRALIS,gerlachea_australis-artedidraconidae,
+POGONOPHRYNE SPECIES,~,
+RACOVITZIA GLACIALIS,racovitzia_glacialis-artedidraconidae,
+TREMATOMUS TOKAREVI,trematomus_tokarevi-trematominae,
+ARTEDIDRACO SKOTTSBERGI,artedidraco_skottsbergi-artedidraconidae,
+BATHYDRACO MARRI,bathydraco_marri-bathydraconidae,
+PAGOTHENIA BORCHGREVINKI,~,
+TREMATOMUS BERNACCHII,trematomus_bernacchii-trematominae,
+TREMATOMUS NEWNESI,trematomus_newnesi-trematominae,
+TREMATOMUS NICOLAI,trematomus_nicolai-trematominae,
+TREMATOMUS PENNELLII,trematomus_pennelii-trematominae,
+POGONOPHRYNE DOLICHOBRANCHIATA,~,
+PAGETOPSIS MACROPTERUS,pagetopsis macropterus-channichthyidae,
+TREMATOMUS SCOTTI,trematomus_scotti-trematominae,
+POGONOPHRYNE MARMORATA,pogonophryne_marmorata-artedidraconidae,
+TREMATOMUS LOENNBERGII,trematomus_loenbergii-trematominae,
+HARPAGIFER ANTARCTICUS,harpagifer_antarcticus-harpagiferidae,
+POGONOPHRYNE SCOTTI,pogonophryne_scotti-artedidraconidae,
+DACODRACO HUNTERI,dacodraco_hunteri-channichthyidae,
+AETHOTAXIS MITOPTERYX,nototheniids_aethotaxis mitopteryx-artedidraconidae,
+CHIONODRACO MYERSI,chiondraco_myersi-channichthyidae,
+POGONOPHRYNE BARSUKOVI,pogonophryne_barsukovi-artedidraconidae,
+POGONOPHRYNE PERMITINI,~,
+POGONOPHRYNE SPECIES A,~,
+POGONOPHRYNE SPECIES B,~,
+PRIONODRACO EVANSII,prionodraco_evansii-artedidraconidae,
+VOMERIDENS INFUSCIPINNIS,vomeridens_infuscipinnis-artedidraconidae,
+POGONOPHRYNE MACROPOGON,pogonophryne_macropogon-artedidraconidae,
+AKAROTAXIS NUDICEPS,akarotaxis_nudiceps-bathydraconidae,
+GOBIONOTOTHEN ACUTA,~,
+BATHYDRACO ANTARCTICUS,bathydraco_antarcticus-bathydraconidae,

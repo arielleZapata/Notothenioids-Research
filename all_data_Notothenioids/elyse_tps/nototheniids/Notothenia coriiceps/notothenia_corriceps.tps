@@ -1,0 +1,8 @@
+LM=0
+IMAGE=(1) YPM ICH 24037.JPG
+LM=0
+IMAGE=(3) YPM ICH 21529 .JPG
+LM=0
+IMAGE=(4) NMNZ P40096 Notothenia coriiceps_404.tif
+LM=0
+IMAGE=(5) NMNZ P40097 Notothenia coriiceps_404.TIF
