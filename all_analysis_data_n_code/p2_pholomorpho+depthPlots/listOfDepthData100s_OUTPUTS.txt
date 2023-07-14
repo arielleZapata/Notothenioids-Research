@@ -1,0 +1,1169 @@
+[[1]]
+        X             Region Year                                                  Taxon Depth Length
+1       1 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    58   50.5
+2       2 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    58   55.5
+3       3 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   39.5
+4       4 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   44.5
+5       5 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   45.5
+6       6 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   61.5
+7       7 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   63.5
+8       8 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    92   47.5
+9       9 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    99   46.5
+10     10 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    99   50.5
+219   219 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    86   33.5
+220   220 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    89   21.5
+221   221 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    89   26.5
+222   222 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    89   27.5
+223   223 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    89   30.5
+224   224 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    89   32.5
+225   225 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    89   37.5
+226   226 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    92   16.5
+227   227 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    92   17.5
+228   228 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    92   20.5
+229   229 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    92   21.5
+230   230 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    92   22.5
+231   231 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    92   23.5
+232   232 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    92   27.5
+233   233 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    92   29.5
+234   234 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    92   32.5
+235   235 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    92   34.5
+236   236 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    92   35.5
+237   237 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    92   37.5
+238   238 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    92   38.5
+239   239 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    92   46.5
+240   240 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    99   16.5
+241   241 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    99   24.5
+242   242 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    99   25.5
+243   243 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    99   32.5
+244   244 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    99   33.5
+245   245 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    99   34.5
+246   246 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    99   35.5
+247   247 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    99   38.5
+248   248 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    99   39.5
+249   249 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae    99   42.5
+616   616 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae    58   35.5
+617   617 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae    58   36.5
+618   618 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae    58   37.5
+619   619 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae    58   39.5
+620   620 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae    86   44.5
+944   944 South Shetland Is. 1998                                 lepi_lars-trematominae    89   13.5
+945   945 South Shetland Is. 1998                                 lepi_lars-trematominae    89   15.5
+1053 1053 South Shetland Is. 1998                                 lepi_nudi-trematominae    86    9.5
+1054 1054 South Shetland Is. 1998                                 lepi_nudi-trematominae    86   11.5
+1055 1055 South Shetland Is. 1998                                 lepi_nudi-trematominae    86   12.5
+1056 1056 South Shetland Is. 1998                                 lepi_nudi-trematominae    86   13.5
+1057 1057 South Shetland Is. 1998                                 lepi_nudi-trematominae    86   14.5
+1058 1058 South Shetland Is. 1998                                 lepi_nudi-trematominae    86   15.5
+1059 1059 South Shetland Is. 1998                                 lepi_nudi-trematominae    86   16.5
+1060 1060 South Shetland Is. 1998                                 lepi_nudi-trematominae    86   17.5
+1061 1061 South Shetland Is. 1998                                 lepi_nudi-trematominae    86   18.5
+1062 1062 South Shetland Is. 1998                                 lepi_nudi-trematominae    86   19.5
+1063 1063 South Shetland Is. 1998                                 lepi_nudi-trematominae    89   11.5
+1064 1064 South Shetland Is. 1998                                 lepi_nudi-trematominae    89   13.5
+1065 1065 South Shetland Is. 1998                                 lepi_nudi-trematominae    89   14.5
+1066 1066 South Shetland Is. 1998                                 lepi_nudi-trematominae    89   16.5
+1067 1067 South Shetland Is. 1998                                 lepi_nudi-trematominae    89   18.5
+1068 1068 South Shetland Is. 1998                                 lepi_nudi-trematominae    89   21.5
+1069 1069 South Shetland Is. 1998                                 lepi_nudi-trematominae    99   16.5
+1236 1239 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    58   33.5
+1237 1240 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    58   34.5
+1238 1241 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    58   37.5
+1239 1242 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    58   39.5
+1240 1243 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    58   40.5
+1241 1244 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    58   44.5
+1242 1245 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    86   38.5
+1243 1246 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    89   35.5
+1244 1247 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    89   38.5
+1245 1248 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    89   43.5
+1246 1249 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    89   45.5
+1247 1250 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    92   40.5
+1248 1251 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    92   44.5
+1249 1252 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    99   37.5
+1250 1253 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    99   38.5
+1251 1254 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    99   40.5
+1252 1255 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    99   42.5
+1253 1256 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    99   43.5
+1254 1257 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    99   44.5
+1255 1258 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    99   45.5
+1256 1259 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    99   49.5
+1257 1260 South Shetland Is. 1998                     notothenia_corriceps-nototheniidae    99   50.5
+1303 1334 South Shetland Is. 1998             parachaenichthys_charcoti-artedidraconidae    58   33.5
+1304 1335 South Shetland Is. 1998             parachaenichthys_charcoti-artedidraconidae    58   37.5
+1305 1336 South Shetland Is. 1998             parachaenichthys_charcoti-artedidraconidae    89   20.5
+1306 1337 South Shetland Is. 1998             parachaenichthys_charcoti-artedidraconidae    89   23.5
+1307 1338 South Shetland Is. 1998             parachaenichthys_charcoti-artedidraconidae    89   27.5
+1308 1339 South Shetland Is. 1998             parachaenichthys_charcoti-artedidraconidae    89   32.5
+1309 1340 South Shetland Is. 1998             parachaenichthys_charcoti-artedidraconidae    92   17.5
+1310 1341 South Shetland Is. 1998             parachaenichthys_charcoti-artedidraconidae    99   21.5
+1311 1342 South Shetland Is. 1998             parachaenichthys_charcoti-artedidraconidae    99   22.5
+1312 1343 South Shetland Is. 1998             parachaenichthys_charcoti-artedidraconidae    99   23.5
+1317 1348 South Shetland Is. 1998          pseudochaenichthys georgianus-channichthyidae    86   20.5
+1318 1349 South Shetland Is. 1998          pseudochaenichthys georgianus-channichthyidae    92   56.5
+1374 1405 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    78   25.5
+1375 1406 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    78   47.5
+1376 1407 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    84   43.5
+1377 1408 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    84   45.5
+1378 1409 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    84   46.5
+1379 1410 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    84   47.5
+1380 1411 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    84   48.5
+1381 1412 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    84   50.5
+1382 1413 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    84   53.5
+1383 1414 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    84   54.5
+1384 1415 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    84   55.5
+1385 1416 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    86   27.5
+1386 1417 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    86   31.5
+1387 1418 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    86   33.5
+1388 1419 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    86   35.5
+1389 1420 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    86   36.5
+1390 1421 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    86   37.5
+1391 1422 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    86   38.5
+1392 1423 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    86   40.5
+1393 1424 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    86   43.5
+1394 1425 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    86   47.5
+1395 1426 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    86   49.5
+1396 1427 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    86   54.5
+1397 1428 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    86   56.5
+1398 1429 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   24.5
+1399 1430 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   25.5
+1400 1431 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   27.5
+1401 1432 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   31.5
+1402 1433 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   34.5
+1403 1434 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   36.5
+1404 1435 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   37.5
+1405 1436 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   38.5
+1406 1437 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   40.5
+1407 1438 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   41.5
+1408 1439 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   42.5
+1409 1440 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   43.5
+1410 1441 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   44.5
+1411 1442 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   45.5
+1412 1443 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   46.5
+1413 1444 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   47.5
+1414 1445 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   49.5
+1415 1446 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   50.5
+1416 1447 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   51.5
+1417 1448 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   53.5
+1418 1449 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   58.5
+1419 1450 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   23.5
+1420 1451 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   36.5
+1421 1452 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   49.5
+1422 1453 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   51.5
+1423 1454 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    88   57.5
+1424 1455 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   38.5
+1425 1456 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   39.5
+1426 1457 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   40.5
+1427 1458 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   43.5
+1428 1459 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   44.5
+1429 1460 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   45.5
+1430 1461 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   46.5
+1431 1462 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   47.5
+1432 1463 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   48.5
+1433 1464 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   49.5
+1434 1465 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   52.5
+1435 1466 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   56.5
+1436 1467 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   58.5
+1437 1468 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    89   59.5
+1438 1469 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    91   18.5
+1439 1470 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    91   22.5
+1440 1471 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae    91   23.5
+ [ reached 'max' / getOption("max.print") -- omitted 2168 rows ]
+
+[[2]]
+      X             Region Year                                   Taxon Depth Length
+11   11 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   106   47.5
+12   12 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   106   56.5
+13   13 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   107   16.5
+14   14 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   107   17.5
+15   15 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   107   18.5
+16   16 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   107   24.5
+17   17 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   107   43.5
+18   18 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   107   45.5
+19   19 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   107   46.5
+20   20 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   107   48.5
+21   21 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   107   50.5
+22   22 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   114   18.5
+23   23 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   114   25.5
+24   24 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   114   26.5
+25   25 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   114   45.5
+26   26 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   114   46.5
+27   27 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   114   50.5
+28   28 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   114   51.5
+29   29 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   114   60.5
+30   30 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   115   33.5
+31   31 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   115   38.5
+32   32 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   115   42.5
+33   33 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   115   45.5
+34   34 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   115   54.5
+35   35 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   115   56.5
+36   36 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   115   58.5
+37   37 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   18.5
+38   38 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   37.5
+39   39 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   42.5
+40   40 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   44.5
+41   41 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   45.5
+42   42 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   46.5
+43   43 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   47.5
+44   44 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   48.5
+45   45 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   49.5
+46   46 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   50.5
+47   47 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   52.5
+48   48 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   53.5
+49   49 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   54.5
+50   50 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   55.5
+51   51 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   57.5
+52   52 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   58.5
+53   53 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   59.5
+54   54 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   60.5
+55   55 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   128   62.5
+56   56 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   33.5
+57   57 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   40.5
+58   58 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   41.5
+59   59 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   43.5
+60   60 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   44.5
+61   61 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   45.5
+62   62 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   48.5
+63   63 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   49.5
+64   64 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   51.5
+65   65 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   52.5
+66   66 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   54.5
+67   67 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   55.5
+68   68 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   56.5
+69   69 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   59.5
+70   70 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   60.5
+71   71 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   138   63.5
+72   72 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   145   17.5
+73   73 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   145   26.5
+74   74 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   145   49.5
+75   75 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   145   51.5
+76   76 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   145   52.5
+77   77 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   145   53.5
+78   78 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   145   56.5
+79   79 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   145   57.5
+80   80 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   145   61.5
+81   81 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   145   62.5
+82   82 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   146   44.5
+83   83 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   146   48.5
+84   84 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   146   50.5
+85   85 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   146   53.5
+86   86 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   146   59.5
+87   87 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   146   61.5
+88   88 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   146   63.5
+89   89 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   146   64.5
+90   90 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   146   65.5
+91   91 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   146   69.5
+92   92 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   18.5
+93   93 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   20.5
+94   94 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   24.5
+95   95 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   25.5
+96   96 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   26.5
+97   97 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   28.5
+98   98 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   33.5
+99   99 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   37.5
+100 100 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   38.5
+101 101 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   42.5
+102 102 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   48.5
+103 103 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   49.5
+104 104 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   50.5
+105 105 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   52.5
+106 106 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   147   56.5
+107 107 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   161   35.5
+108 108 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   161   40.5
+109 109 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   161   41.5
+110 110 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   161   45.5
+111 111 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   161   46.5
+112 112 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   161   47.5
+113 113 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   161   49.5
+114 114 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   161   50.5
+115 115 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   161   55.5
+116 116 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   161   62.5
+117 117 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   27.5
+118 118 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   37.5
+119 119 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   41.5
+120 120 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   42.5
+121 121 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   44.5
+122 122 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   45.5
+123 123 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   46.5
+124 124 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   47.5
+125 125 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   48.5
+126 126 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   49.5
+127 127 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   52.5
+128 128 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   54.5
+129 129 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   56.5
+130 130 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   58.5
+131 131 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   162   63.5
+132 132 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   17.5
+133 133 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   27.5
+134 134 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   43.5
+135 135 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   44.5
+136 136 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   45.5
+137 137 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   46.5
+138 138 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   47.5
+139 139 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   48.5
+140 140 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   49.5
+141 141 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   52.5
+142 142 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   55.5
+143 143 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   56.5
+144 144 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   57.5
+145 145 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   58.5
+146 146 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   63.5
+147 147 South Shetland Is. 1998 chaenocephalus_aceratus-channichthyidae   192   64.5
+250 250 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   21.5
+251 251 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   22.5
+252 252 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   23.5
+253 253 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   24.5
+254 254 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   31.5
+255 255 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   32.5
+256 256 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   33.5
+257 257 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   34.5
+258 258 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   35.5
+259 259 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   36.5
+260 260 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   39.5
+261 261 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   41.5
+262 262 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   42.5
+263 263 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   43.5
+264 264 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   44.5
+265 265 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   106   46.5
+266 266 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   107   20.5
+267 267 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   107   21.5
+268 268 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   107   22.5
+269 269 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   107   23.5
+270 270 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   107   24.5
+271 271 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   107   25.5
+272 272 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   107   26.5
+273 273 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   107   27.5
+274 274 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   107   28.5
+275 275 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   107   30.5
+276 276 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   107   31.5
+277 277 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   107   32.5
+278 278 South Shetland Is. 1998 champsocephalus_gunnari-channichthyidae   107   33.5
+ [ reached 'max' / getOption("max.print") -- omitted 12188 rows ]
+
+[[3]]
+      X             Region Year                                                  Taxon Depth Length
+157 157 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   220   23.5
+158 158 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   220   24.5
+159 159 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   220   30.5
+160 160 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   220   33.5
+161 161 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   220   40.5
+162 162 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   220   44.5
+163 163 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   227   17.5
+164 164 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   227   29.5
+165 165 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   227   52.5
+166 166 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   234   17.5
+167 167 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   234   24.5
+168 168 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   234   25.5
+169 169 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   234   27.5
+170 170 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   234   47.5
+171 171 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   234   56.5
+172 172 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   234   58.5
+173 173 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   244   17.5
+174 174 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   244   21.5
+175 175 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   244   36.5
+176 176 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   244   45.5
+177 177 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   244   70.5
+178 178 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   285   27.5
+179 179 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   285   29.5
+180 180 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   285   33.5
+181 181 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   285   40.5
+182 182 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   285   47.5
+183 183 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   285   52.5
+184 184 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   288   38.5
+185 185 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   288   43.5
+186 186 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   288   49.5
+428 428 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   217   26.5
+429 429 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   217   30.5
+430 430 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   217   31.5
+431 431 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   217   32.5
+432 432 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   217   33.5
+433 433 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   217   34.5
+434 434 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   217   35.5
+435 435 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   217   37.5
+436 436 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   227   25.5
+437 437 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   227   30.5
+438 438 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   227   31.5
+439 439 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   227   32.5
+440 440 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   227   33.5
+441 441 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   227   34.5
+442 442 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   227   35.5
+443 443 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   227   36.5
+444 444 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   227   39.5
+445 445 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   234   36.5
+446 446 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   234   37.5
+447 447 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   234   46.5
+448 448 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   234   50.5
+449 449 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   244   36.5
+450 450 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   268   48.5
+451 451 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   277   31.5
+452 452 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   277   32.5
+453 453 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   277   33.5
+454 454 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   285   47.5
+455 455 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   288   35.5
+456 456 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   288   36.5
+457 457 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   288   39.5
+458 458 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   288   42.5
+496 496 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   220   31.5
+497 497 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   220   36.5
+498 498 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   234   35.5
+499 499 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   234   42.5
+500 500 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   234   44.5
+501 501 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   234   45.5
+502 502 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   244   30.5
+503 503 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   244   42.5
+504 504 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   268   41.5
+505 505 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   285   30.5
+506 506 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   285   32.5
+507 507 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   285   34.5
+508 508 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   285   36.5
+509 509 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   285   37.5
+510 510 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   285   38.5
+511 511 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   285   39.5
+512 512 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   285   40.5
+513 513 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   285   45.5
+514 514 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   288   29.5
+515 515 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   288   37.5
+516 516 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   288   39.5
+517 517 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   288   41.5
+518 518 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   288   42.5
+589 589 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   285   58.5
+769 769 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   217   30.5
+770 770 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   217   31.5
+771 771 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   217   32.5
+772 772 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   217   33.5
+773 773 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   217   34.5
+774 774 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   217   35.5
+775 775 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   217   36.5
+776 776 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   217   38.5
+777 777 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   217   40.5
+778 778 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   220   28.5
+779 779 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   220   30.5
+780 780 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   220   31.5
+781 781 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   220   32.5
+782 782 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   220   36.5
+783 783 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   220   38.5
+784 784 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   220   39.5
+785 785 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   220   40.5
+786 786 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   227   30.5
+787 787 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   227   31.5
+788 788 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   227   32.5
+789 789 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   227   33.5
+790 790 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   227   34.5
+791 791 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   227   35.5
+792 792 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   227   36.5
+793 793 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   227   37.5
+794 794 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   227   38.5
+795 795 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   227   39.5
+796 796 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   227   40.5
+797 797 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   227   41.5
+798 798 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   227   42.5
+799 799 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   227   44.5
+800 800 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   29.5
+801 801 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   31.5
+802 802 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   32.5
+803 803 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   33.5
+804 804 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   34.5
+805 805 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   35.5
+806 806 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   36.5
+807 807 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   37.5
+808 808 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   38.5
+809 809 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   39.5
+810 810 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   40.5
+811 811 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   41.5
+812 812 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   42.5
+813 813 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   43.5
+814 814 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   44.5
+815 815 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   45.5
+816 816 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   234   47.5
+817 817 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   30.5
+818 818 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   31.5
+819 819 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   32.5
+820 820 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   33.5
+821 821 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   34.5
+822 822 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   35.5
+823 823 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   36.5
+824 824 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   37.5
+825 825 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   38.5
+826 826 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   39.5
+827 827 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   40.5
+828 828 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   41.5
+829 829 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   42.5
+830 830 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   44.5
+831 831 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   45.5
+832 832 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   244   47.5
+833 833 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   268   31.5
+834 834 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   268   32.5
+835 835 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   268   33.5
+836 836 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   268   34.5
+837 837 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   268   37.5
+838 838 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   277   35.5
+839 839 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   285   33.5
+840 840 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   285   34.5
+841 841 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   285   35.5
+842 842 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   285   36.5
+843 843 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   285   37.5
+844 844 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   285   38.5
+845 845 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   285   39.5
+846 846 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   285   40.5
+847 847 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   285   41.5
+848 848 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   285   42.5
+849 849 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   285   43.5
+ [ reached 'max' / getOption("max.print") -- omitted 11545 rows ]
+
+[[4]]
+      X             Region Year                                                  Taxon Depth Length
+187 187 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   302   39.5
+188 188 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   302   57.5
+189 189 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   309   42.5
+190 190 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   310   19.5
+191 191 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   310   24.5
+192 192 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   310   25.5
+193 193 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   310   31.5
+194 194 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   310   34.5
+195 195 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   310   36.5
+196 196 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   310   38.5
+197 197 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   310   40.5
+198 198 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   312   38.5
+199 199 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   312   39.5
+200 200 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   312   45.5
+201 201 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   312   47.5
+202 202 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   312   43.5
+203 203 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   312   48.5
+204 204 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   341   60.5
+459 459 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   309   30.5
+460 460 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   309   31.5
+461 461 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   309   32.5
+462 462 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   309   33.5
+463 463 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   309   34.5
+464 464 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   309   35.5
+465 465 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   309   36.5
+466 466 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   309   37.5
+467 467 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   309   38.5
+468 468 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   309   39.5
+469 469 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   309   40.5
+470 470 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   309   42.5
+471 471 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   310   33.5
+472 472 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   310   34.5
+473 473 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   310   53.5
+474 474 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   23.5
+475 475 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   31.5
+476 476 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   32.5
+477 477 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   33.5
+478 478 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   34.5
+479 479 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   35.5
+480 480 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   36.5
+481 481 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   37.5
+482 482 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   38.5
+483 483 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   39.5
+484 484 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   40.5
+485 485 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   43.5
+486 486 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   48.5
+487 487 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   33.5
+488 488 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   312   35.5
+489 489 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   341   34.5
+490 490 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   341   37.5
+491 491 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   341   38.5
+492 492 South Shetland Is. 1998                champsocephalus_gunnari-channichthyidae   341   40.5
+519 519 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   302   29.5
+520 520 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   302   36.5
+521 521 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   302   41.5
+522 522 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   302   45.5
+523 523 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   309   29.5
+524 524 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   309   30.5
+525 525 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   309   32.5
+526 526 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   309   34.5
+527 527 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   309   35.5
+528 528 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   309   36.5
+529 529 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   309   38.5
+530 530 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   309   39.5
+531 531 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   309   40.5
+532 532 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   309   41.5
+533 533 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   309   42.5
+534 534 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   309   43.5
+535 535 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   310   29.5
+536 536 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   310   33.5
+537 537 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   310   37.5
+538 538 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   310   43.5
+539 539 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   31.5
+540 540 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   33.5
+541 541 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   34.5
+542 542 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   35.5
+543 543 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   36.5
+544 544 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   37.5
+545 545 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   38.5
+546 546 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   39.5
+547 547 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   40.5
+548 548 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   41.5
+549 549 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   42.5
+550 550 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   43.5
+551 551 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   45.5
+552 552 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   30.5
+553 553 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   34.5
+554 554 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   35.5
+555 555 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   36.5
+556 556 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   39.5
+557 557 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   40.5
+558 558 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   312   42.5
+559 559 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   341   37.5
+560 560 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   341   42.5
+561 561 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   341   43.5
+609 609 South Shetland Is. 1998      nototheniid_dissostichus mawsoni-artedidraconidae   302   25.5
+610 610 South Shetland Is. 1998      nototheniid_dissostichus mawsoni-artedidraconidae   310   35.5
+611 611 South Shetland Is. 1998      nototheniid_dissostichus mawsoni-artedidraconidae   310   53.5
+612 612 South Shetland Is. 1998      nototheniid_dissostichus mawsoni-artedidraconidae   312   52.5
+613 613 South Shetland Is. 1998      nototheniid_dissostichus mawsoni-artedidraconidae   341   53.5
+862 862 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   302   29.5
+863 863 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   302   31.5
+864 864 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   302   32.5
+865 865 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   302   33.5
+866 866 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   302   34.5
+867 867 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   302   35.5
+868 868 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   302   36.5
+869 869 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   302   37.5
+870 870 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   302   38.5
+871 871 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   302   39.5
+872 872 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   302   40.5
+873 873 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   302   41.5
+874 874 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   309   27.5
+875 875 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   309   28.5
+876 876 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   309   29.5
+877 877 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   309   30.5
+878 878 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   309   31.5
+879 879 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   309   32.5
+880 880 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   309   33.5
+881 881 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   309   34.5
+882 882 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   309   35.5
+883 883 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   309   36.5
+884 884 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   309   37.5
+885 885 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   309   38.5
+886 886 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   309   40.5
+887 887 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   310   30.5
+888 888 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   310   31.5
+889 889 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   310   32.5
+890 890 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   310   33.5
+891 891 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   310   34.5
+892 892 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   310   35.5
+893 893 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   310   36.5
+894 894 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   310   37.5
+895 895 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   310   38.5
+896 896 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   310   39.5
+897 897 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   28.5
+898 898 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   29.5
+899 899 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   30.5
+900 900 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   31.5
+901 901 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   32.5
+902 902 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   33.5
+903 903 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   34.5
+904 904 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   35.5
+905 905 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   36.5
+906 906 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   37.5
+907 907 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   38.5
+908 908 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   40.5
+909 909 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   29.5
+910 910 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   31.5
+911 911 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   32.5
+912 912 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   34.5
+913 913 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   35.5
+914 914 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   312   36.5
+915 915 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   341   31.5
+916 916 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   341   32.5
+917 917 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   341   33.5
+918 918 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   341   34.5
+919 919 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   341   36.5
+920 920 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   341   37.5
+921 921 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   341   39.5
+922 922 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   394   32.5
+923 923 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   394   33.5
+924 924 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   394   34.5
+925 925 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   394   35.5
+926 926 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   394   37.5
+927 927 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   394   38.5
+ [ reached 'max' / getOption("max.print") -- omitted 7251 rows ]
+
+[[5]]
+        X             Region Year                                                  Taxon Depth Length
+205   205 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   408   58.5
+206   206 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   428   41.5
+207   207 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   428   43.5
+208   208 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   428   45.5
+209   209 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   428   47.5
+210   210 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   428   49.5
+211   211 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   428   50.5
+212   212 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   428   51.5
+213   213 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   428   52.5
+214   214 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   428   53.5
+215   215 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   428   56.5
+216   216 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   428   57.5
+217   217 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   428   58.5
+218   218 South Shetland Is. 1998                chaenocephalus_aceratus-channichthyidae   428   59.5
+562   562 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   408   33.5
+563   563 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   408   34.5
+564   564 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   408   35.5
+565   565 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   408   36.5
+566   566 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   408   37.5
+567   567 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   408   38.5
+568   568 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   408   40.5
+569   569 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   408   41.5
+570   570 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   408   43.5
+571   571 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   408   44.5
+572   572 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   421   39.5
+573   573 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   421   42.5
+574   574 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   428   32.5
+575   575 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   428   34.5
+576   576 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   428   35.5
+577   577 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   428   36.5
+578   578 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   428   37.5
+579   579 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   428   38.5
+580   580 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   428   39.5
+581   581 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   428   40.5
+582   582 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   428   41.5
+583   583 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   428   42.5
+584   584 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   428   43.5
+585   585 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   428   44.5
+586   586 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   428   45.5
+587   587 South Shetland Is. 1998             chionodraco_rastrospinosus-channichthyidae   428   46.5
+590   590 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   408   52.5
+591   591 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   421   44.5
+592   592 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   421   45.5
+593   593 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   421   56.5
+594   594 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   421   57.5
+595   595 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   428   43.5
+596   596 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   428   45.5
+597   597 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   428   46.5
+598   598 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   428   47.5
+599   599 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   428   49.5
+600   600 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   428   53.5
+601   601 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   428   54.5
+602   602 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   428   56.5
+603   603 South Shetland Is. 1998                  cryodraco_antarcticus-channichthyidae   428   60.5
+614   614 South Shetland Is. 1998      nototheniid_dissostichus mawsoni-artedidraconidae   421   51.5
+615   615 South Shetland Is. 1998      nototheniid_dissostichus mawsoni-artedidraconidae   421   97.5
+931   931 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   408   34.5
+932   932 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   408   35.5
+933   933 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   408   36.5
+934   934 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   408   38.5
+935   935 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   428   35.5
+936   936 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   428   36.5
+937   937 South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   428   39.5
+1038 1038 South Shetland Is. 1998                                 lepi_lars-trematominae   408   18.5
+1039 1039 South Shetland Is. 1998                                 lepi_lars-trematominae   408   19.5
+1040 1040 South Shetland Is. 1998                                 lepi_lars-trematominae   408   20.5
+1041 1041 South Shetland Is. 1998                                 lepi_lars-trematominae   408   21.5
+1042 1042 South Shetland Is. 1998                                 lepi_lars-trematominae   421   17.5
+1043 1043 South Shetland Is. 1998                                 lepi_lars-trematominae   421   18.5
+1044 1044 South Shetland Is. 1998                                 lepi_lars-trematominae   421   19.5
+1045 1045 South Shetland Is. 1998                                 lepi_lars-trematominae   421   20.5
+1046 1046 South Shetland Is. 1998                                 lepi_lars-trematominae   428   16.5
+1047 1047 South Shetland Is. 1998                                 lepi_lars-trematominae   428   17.5
+1048 1048 South Shetland Is. 1998                                 lepi_lars-trematominae   428   18.5
+1049 1049 South Shetland Is. 1998                                 lepi_lars-trematominae   428   19.5
+1050 1050 South Shetland Is. 1998                                 lepi_lars-trematominae   428   20.5
+1051 1051 South Shetland Is. 1998                                 lepi_lars-trematominae   428   21.5
+1052 1052 South Shetland Is. 1998                                 lepi_lars-trematominae   428   22.5
+1163 1163 South Shetland Is. 1998                                 lepi_squa-trematominae   408   20.5
+1164 1164 South Shetland Is. 1998                                 lepi_squa-trematominae   408   21.5
+1165 1165 South Shetland Is. 1998                                 lepi_squa-trematominae   408   22.5
+1166 1166 South Shetland Is. 1998                                 lepi_squa-trematominae   408   24.5
+1167 1167 South Shetland Is. 1998                                 lepi_squa-trematominae   408   25.5
+1168 1168 South Shetland Is. 1998                                 lepi_squa-trematominae   408   26.5
+1169 1169 South Shetland Is. 1998                                 lepi_squa-trematominae   408   27.5
+1170 1170 South Shetland Is. 1998                                 lepi_squa-trematominae   408   28.5
+1171 1171 South Shetland Is. 1998                                 lepi_squa-trematominae   408   29.5
+1172 1172 South Shetland Is. 1998                                 lepi_squa-trematominae   408   30.5
+1173 1173 South Shetland Is. 1998                                 lepi_squa-trematominae   408   31.5
+1174 1174 South Shetland Is. 1998                                 lepi_squa-trematominae   408   32.5
+1175 1175 South Shetland Is. 1998                                 lepi_squa-trematominae   408   33.5
+1176 1176 South Shetland Is. 1998                                 lepi_squa-trematominae   408   34.5
+1177 1177 South Shetland Is. 1998                                 lepi_squa-trematominae   408   35.5
+1178 1178 South Shetland Is. 1998                                 lepi_squa-trematominae   408   36.5
+1179 1179 South Shetland Is. 1998                                 lepi_squa-trematominae   408   37.5
+1180 1180 South Shetland Is. 1998                                 lepi_squa-trematominae   408   38.5
+1181 1181 South Shetland Is. 1998                                 lepi_squa-trematominae   408   39.5
+1182 1182 South Shetland Is. 1998                                 lepi_squa-trematominae   408   40.5
+1183 1183 South Shetland Is. 1998                                 lepi_squa-trematominae   408   41.5
+1184 1184 South Shetland Is. 1998                                 lepi_squa-trematominae   421   15.5
+1185 1185 South Shetland Is. 1998                                 lepi_squa-trematominae   421   19.5
+1186 1186 South Shetland Is. 1998                                 lepi_squa-trematominae   421   20.5
+1187 1187 South Shetland Is. 1998                                 lepi_squa-trematominae   421   21.5
+1188 1188 South Shetland Is. 1998                                 lepi_squa-trematominae   421   22.5
+1189 1189 South Shetland Is. 1998                                 lepi_squa-trematominae   421   23.5
+1190 1190 South Shetland Is. 1998                                 lepi_squa-trematominae   421   25.5
+1191 1191 South Shetland Is. 1998                                 lepi_squa-trematominae   421   26.5
+1192 1192 South Shetland Is. 1998                                 lepi_squa-trematominae   421   27.5
+1193 1193 South Shetland Is. 1998                                 lepi_squa-trematominae   421   28.5
+1194 1194 South Shetland Is. 1998                                 lepi_squa-trematominae   421   29.5
+1195 1195 South Shetland Is. 1998                                 lepi_squa-trematominae   421   30.5
+1196 1196 South Shetland Is. 1998                                 lepi_squa-trematominae   421   31.5
+1197 1197 South Shetland Is. 1998                                 lepi_squa-trematominae   421   32.5
+1198 1198 South Shetland Is. 1998                                 lepi_squa-trematominae   421   33.5
+1199 1199 South Shetland Is. 1998                                 lepi_squa-trematominae   421   34.5
+1200 1200 South Shetland Is. 1998                                 lepi_squa-trematominae   421   35.5
+1201 1201 South Shetland Is. 1998                                 lepi_squa-trematominae   421   36.5
+1202 1202 South Shetland Is. 1998                                 lepi_squa-trematominae   421   37.5
+1203 1203 South Shetland Is. 1998                                 lepi_squa-trematominae   421   38.5
+1204 1204 South Shetland Is. 1998                                 lepi_squa-trematominae   421   41.5
+1205 1205 South Shetland Is. 1998                                 lepi_squa-trematominae   421   42.5
+1206 1206 South Shetland Is. 1998                                 lepi_squa-trematominae   421   43.5
+1207 1207 South Shetland Is. 1998                                 lepi_squa-trematominae   421   45.5
+1208 1208 South Shetland Is. 1998                                 lepi_squa-trematominae   428   17.5
+1209 1209 South Shetland Is. 1998                                 lepi_squa-trematominae   428   18.5
+1210 1210 South Shetland Is. 1998                                 lepi_squa-trematominae   428   20.5
+1211 1211 South Shetland Is. 1998                                 lepi_squa-trematominae   428   21.5
+1212 1212 South Shetland Is. 1998                                 lepi_squa-trematominae   428   23.5
+1213 1213 South Shetland Is. 1998                                 lepi_squa-trematominae   428   24.5
+1214 1214 South Shetland Is. 1998                                 lepi_squa-trematominae   428   25.5
+1215 1215 South Shetland Is. 1998                                 lepi_squa-trematominae   428   26.5
+1216 1216 South Shetland Is. 1998                                 lepi_squa-trematominae   428   27.5
+1217 1217 South Shetland Is. 1998                                 lepi_squa-trematominae   428   28.5
+1218 1218 South Shetland Is. 1998                                 lepi_squa-trematominae   428   29.5
+1219 1219 South Shetland Is. 1998                                 lepi_squa-trematominae   428   30.5
+1220 1220 South Shetland Is. 1998                                 lepi_squa-trematominae   428   31.5
+1221 1221 South Shetland Is. 1998                                 lepi_squa-trematominae   428   32.5
+1222 1222 South Shetland Is. 1998                                 lepi_squa-trematominae   428   33.5
+1223 1223 South Shetland Is. 1998                                 lepi_squa-trematominae   428   34.5
+1224 1224 South Shetland Is. 1998                                 lepi_squa-trematominae   428   35.5
+1225 1225 South Shetland Is. 1998                                 lepi_squa-trematominae   428   36.5
+1226 1226 South Shetland Is. 1998                                 lepi_squa-trematominae   428   37.5
+1227 1227 South Shetland Is. 1998                                 lepi_squa-trematominae   428   38.5
+1228 1228 South Shetland Is. 1998                                 lepi_squa-trematominae   428   39.5
+1229 1229 South Shetland Is. 1998                                 lepi_squa-trematominae   428   40.5
+1230 1230 South Shetland Is. 1998                                 lepi_squa-trematominae   428   41.5
+1231 1231 South Shetland Is. 1998                                 lepi_squa-trematominae   428   42.5
+1232 1232 South Shetland Is. 1998                                 lepi_squa-trematominae   428   43.5
+1233 1233 South Shetland Is. 1998                                 lepi_squa-trematominae   428   45.5
+1234 1234 South Shetland Is. 1998                                 lepi_squa-trematominae   428   46.5
+1316 1347 South Shetland Is. 1998 nototheniids_pleuragramma antarcticum-artedidraconidae   408   19.5
+1357 1388 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   408   23.5
+1358 1389 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   408   24.5
+1359 1390 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   408   27.5
+1360 1391 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   408   29.5
+1361 1392 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   408   30.5
+1362 1393 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   421   24.5
+1363 1394 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   421   29.5
+1364 1395 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   428   22.5
+1365 1396 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   428   24.5
+1366 1397 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   428   26.5
+1367 1398 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   428   28.5
+1368 1399 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   428   29.5
+1369 1400 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   428   30.5
+1370 1401 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   428   31.5
+1371 1402 South Shetland Is. 1998                    trematomus_eulepidotus-trematominae   428   32.5
+ [ reached 'max' / getOption("max.print") -- omitted 2992 rows ]
+
+[[6]]
+          X              Region Year                                                  Taxon Depth Length
+938     938  South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   518   35.5
+939     939  South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   518   37.5
+940     940  South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   518   38.5
+941     941  South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   518   39.5
+942     942  South Shetland Is. 1998 nototheniid_gobinotothen gibberifrons-artedidraconidae   518   41.5
+1235   1235  South Shetland Is. 1998                                 lepi_squa-trematominae   518   22.5
+18482 18914 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   505   26.0
+18483 18915 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   505   28.0
+18484 18916 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   505   26.0
+18485 18917 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   505   28.0
+18486 18918 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   505   28.0
+18487 18919 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   505   27.0
+18488 18920 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   505   25.0
+18489 18921 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   505   23.0
+18490 18923 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505   19.0
+18491 18924 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505   22.0
+18492 18925 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505   18.0
+18493 18926 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  117.0
+18494 18927 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  172.0
+18495 18928 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  165.0
+18496 18929 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  174.0
+18497 18930 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  173.0
+18498 18931 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  185.0
+18499 18932 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  171.0
+18500 18933 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  147.0
+18501 18934 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  201.0
+18831 19264 Antarctic Peninsula 2006                                 lepi_lars-trematominae   505   20.0
+18832 19265 Antarctic Peninsula 2006 nototheniid_gobinotothen gibberifrons-artedidraconidae   505   19.0
+18833 19266 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   505   25.0
+18834 19267 Antarctic Peninsula 2006                  cryodraco_antarcticus-channichthyidae   505   34.0
+18835 19268 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   505   23.0
+18836 19269 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   505   30.0
+18837 19270 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   505   29.0
+18838 19271 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   505   28.0
+18839 19272 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   505   29.0
+18840 19273 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  166.0
+18841 19274 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  177.0
+18842 19275 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  161.0
+18843 19276 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  169.0
+18844 19277 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  158.0
+18845 19278 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  153.0
+18846 19279 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  168.0
+18847 19280 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  169.0
+18848 19281 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  165.0
+18849 19282 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  155.0
+18850 19283 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  121.0
+18851 19284 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  190.0
+18852 19285 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  151.0
+18853 19286 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  165.0
+18854 19287 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  154.0
+18855 19288 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  176.0
+18856 19289 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505   62.0
+18857 19290 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   505  141.0
+
+[[7]]
+          X           Region Year                                                  Taxon Depth Length
+25410 25877 South Orkney Is. 2009                       trematomus_tokarevi-trematominae   629     19
+25411 25878 South Orkney Is. 2009                       trematomus_tokarevi-trematominae   629     25
+25412 25879 South Orkney Is. 2009                       trematomus_tokarevi-trematominae   629     16
+25413 25880 South Orkney Is. 2009                       bathydraco_marri-bathydraconidae   629     22
+25414 25881 South Orkney Is. 2009                pogonophryne_barsukovi-artedidraconidae   629     23
+25415 25882 South Orkney Is. 2009                  cryodraco_antarcticus-channichthyidae   629     44
+25416 25883 South Orkney Is. 2009                                 lepi_squa-trematominae   629     30
+25417 25884 South Orkney Is. 2009                                 lepi_squa-trematominae   629     28
+25418 25885 South Orkney Is. 2009                                 lepi_squa-trematominae   629     29
+25419 25886 South Orkney Is. 2009                                 lepi_squa-trematominae   629     25
+25420 25887 South Orkney Is. 2009                                 lepi_squa-trematominae   629     32
+27507 27984 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     33
+27508 27985 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     26
+27509 27986 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     23
+27510 27987 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     33
+27511 27988 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     28
+27512 27989 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     32
+27513 27990 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     25
+27514 27991 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     31
+27515 27992 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     27
+27516 27993 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     27
+27517 27994 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     25
+27518 27995 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     26
+27519 27996 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     22
+27520 27997 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     25
+27521 27998 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     34
+27522 27999 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     28
+27523 28000 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     32
+27524 28001 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     29
+27525 28002 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     31
+27526 28003 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     33
+27527 28004 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     35
+27528 28005 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     28
+27529 28006 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     26
+27530 28007 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     25
+27531 28008 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     26
+27532 28009 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     24
+27533 28010 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     21
+27534 28011 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     26
+27535 28012 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     24
+27536 28013 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     25
+27537 28014 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     25
+27538 28015 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     25
+27539 28016 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     26
+27540 28017 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     25
+27541 28018 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     22
+27542 28019 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     24
+27543 28020 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     24
+27544 28021 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     22
+27545 28022 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     22
+27546 28023 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     28
+27547 28024 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     34
+27548 28025 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     33
+27549 28026 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     31
+27550 28027 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     28
+27551 28028 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     31
+27552 28029 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     31
+27553 28030 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     27
+27554 28031 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     27
+27555 28032 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     28
+27556 28033 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     28
+27557 28034 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     27
+27558 28035 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     32
+27559 28036 South Orkney Is. 2009                                 lepi_squa-trematominae   623     41
+27560 28037 South Orkney Is. 2009                                 lepi_squa-trematominae   623     23
+27561 28038 South Orkney Is. 2009                                 lepi_squa-trematominae   623     41
+27562 28039 South Orkney Is. 2009                                 lepi_squa-trematominae   623     46
+27563 28040 South Orkney Is. 2009                                 lepi_squa-trematominae   623     35
+27564 28041 South Orkney Is. 2009                                 lepi_squa-trematominae   623     36
+27565 28042 South Orkney Is. 2009                                 lepi_squa-trematominae   623     24
+27566 28043 South Orkney Is. 2009                                 lepi_squa-trematominae   623     33
+27567 28044 South Orkney Is. 2009                                 lepi_squa-trematominae   623     36
+27568 28045 South Orkney Is. 2009                                 lepi_squa-trematominae   623     48
+27569 28046 South Orkney Is. 2009                                 lepi_squa-trematominae   623     25
+27570 28047 South Orkney Is. 2009                                 lepi_squa-trematominae   623     17
+27571 28048 South Orkney Is. 2009               pogonophryne_macropogon-artedidraconidae   623     30
+27572 28049 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     32
+27573 28050 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     27
+27574 28051 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     26
+27575 28052 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     23
+27576 28053 South Orkney Is. 2009                    trematomus_eulepidotus-trematominae   623     22
+27577 28054 South Orkney Is. 2009                                 lepi_squa-trematominae   623     45
+27578 28055 South Orkney Is. 2009                                 lepi_squa-trematominae   623     34
+27579 28056 South Orkney Is. 2009                                 lepi_squa-trematominae   623     33
+27580 28057 South Orkney Is. 2009                                 lepi_squa-trematominae   623     24
+27581 28058 South Orkney Is. 2009                                 lepi_squa-trematominae   623     22
+27582 28059 South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   623    175
+27583 28060 South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   623    203
+27584 28061 South Orkney Is. 2009                     trematomus_loenbergii-trematominae   623     20
+27585 28062 South Orkney Is. 2009                   gymnodraco_acuticeps-bathydraconidae   623     25
+
+[[8]]
+          X              Region Year                                                  Taxon Depth Length
+19027 19462 Antarctic Peninsula 2006                      dacodraco_hunteri-channichthyidae   755   12.0
+19028 19464 Antarctic Peninsula 2006    nototheniids_aethotaxis mitopteryx-artedidraconidae   755   14.8
+19029 19465 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  160.0
+19030 19466 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  166.0
+19031 19467 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  165.0
+19032 19468 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  173.0
+19033 19469 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  160.0
+19034 19470 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  170.0
+19035 19471 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  140.0
+19036 19472 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  151.0
+19037 19473 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  134.0
+19038 19474 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  124.0
+19039 19475 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  135.0
+19040 19476 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  128.0
+19041 19477 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  122.0
+19042 19478 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  126.0
+19043 19479 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  116.0
+19044 19480 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  159.0
+19045 19481 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  176.0
+19046 19482 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  141.0
+19047 19483 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  152.0
+19048 19484 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  134.0
+19049 19485 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  135.0
+19050 19486 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  150.0
+19051 19487 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  128.0
+19052 19488 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  144.0
+19054 19490 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  135.0
+19055 19491 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  130.0
+19056 19492 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  143.0
+19057 19493 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   755  161.0
+19058 19494 Antarctic Peninsula 2006                  cryodraco_antarcticus-channichthyidae   755    6.0
+19059 19495 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   755   26.0
+19060 19496 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   755   26.0
+19061 19497 Antarctic Peninsula 2006                    chaenodraco_wilsoni-channichthyidae   755   30.0
+19062 19498 Antarctic Peninsula 2006 nototheniid_gobinotothen gibberifrons-artedidraconidae   755   21.0
+19063 19499 Antarctic Peninsula 2006 nototheniid_gobinotothen gibberifrons-artedidraconidae   755   23.0
+19064 19500 Antarctic Peninsula 2006 nototheniid_gobinotothen gibberifrons-artedidraconidae   755   32.0
+19065 19501 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   30.0
+19066 19502 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   26.0
+19067 19503 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   23.0
+19068 19504 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   29.0
+19069 19505 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   25.0
+19070 19506 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   24.0
+19071 19507 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   24.0
+19072 19508 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   26.0
+19073 19509 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   23.0
+19074 19510 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   22.0
+19076 19512 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   23.0
+19077 19513 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   23.0
+19078 19514 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   22.0
+19079 19515 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   21.0
+19080 19516 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   22.0
+19081 19517 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   755   22.0
+22382 22827 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   25.0
+22383 22828 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   25.0
+22384 22829 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   25.0
+22385 22830 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   24.0
+22386 22831 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   22.0
+22387 22832 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   24.0
+22388 22833 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   24.0
+22389 22834 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   23.0
+22390 22835 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   26.0
+22391 22836 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   23.0
+22392 22837 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   25.0
+22393 22838 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   24.0
+22394 22839 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   26.0
+22395 22840 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   17.0
+22396 22841 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   17.0
+22397 22842 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   23.0
+22398 22843 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   22.0
+22399 22844 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   25.0
+22400 22845 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   27.0
+22401 22846 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   24.0
+22402 22847 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   25.0
+22403 22848 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   15.0
+22404 22849 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   15.0
+22405 22850 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   16.0
+22406 22851 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   15.0
+22407 22852 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   14.0
+22408 22853 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   16.0
+22409 22854 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   16.0
+22410 22855 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   14.0
+22411 22856 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   25.0
+22412 22857 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   23.0
+22413 22858 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   23.0
+22414 22859 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   23.0
+22415 22860 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   24.0
+22416 22861 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   24.0
+22417 22862 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   24.0
+22418 22863 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   23.0
+22419 22864 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   24.0
+22420 22865 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   26.0
+22421 22866 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   22.0
+22435 22880 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   15.0
+22436 22881 Antarctic Peninsula 2006             chionodraco_rastrospinosus-channichthyidae   730   14.0
+22437 22882 Antarctic Peninsula 2006                  cryodraco_antarcticus-channichthyidae   730   30.0
+22438 22883 Antarctic Peninsula 2006                    chaenodraco_wilsoni-channichthyidae   730   22.0
+22439 22884 Antarctic Peninsula 2006                    chaenodraco_wilsoni-channichthyidae   730   26.0
+22440 22885 Antarctic Peninsula 2006                    chaenodraco_wilsoni-channichthyidae   730   26.0
+22441 22886 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  178.0
+22442 22887 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  174.0
+22443 22888 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  188.0
+22444 22889 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  150.0
+22445 22890 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  187.0
+22446 22891 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  141.0
+22447 22892 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  228.0
+22448 22893 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  194.0
+22449 22894 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  169.0
+22450 22895 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  162.0
+22451 22896 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  163.0
+22452 22897 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  218.0
+22453 22898 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  186.0
+22454 22899 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  153.0
+22455 22900 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  178.0
+22456 22901 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  170.0
+22457 22902 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  242.0
+22458 22903 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  177.0
+22459 22904 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  134.0
+22460 22905 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  157.0
+22461 22906 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  145.0
+22462 22907 Antarctic Peninsula 2006 nototheniids_pleuragramma antarcticum-artedidraconidae   730  180.0
+22463 22908 Antarctic Peninsula 2006    nototheniids_aethotaxis mitopteryx-artedidraconidae   730   16.8
+22464 22909 Antarctic Peninsula 2006    nototheniids_aethotaxis mitopteryx-artedidraconidae   730   15.9
+22465 22910 Antarctic Peninsula 2006    nototheniids_aethotaxis mitopteryx-artedidraconidae   730   18.4
+22466 22911 Antarctic Peninsula 2006                        trematomus_hansoni-trematominae   730   37.2
+22467 22915 Antarctic Peninsula 2006                   gymnodraco_acuticeps-bathydraconidae   730     NA
+22468 22916 Antarctic Peninsula 2006                    trematomus_eulepidotus-trematominae   730     NA
+23455 23915    South Orkney Is. 2009                        trematomus_hansoni-trematominae   798   25.0
+23456 23916    South Orkney Is. 2009                                 lepi_squa-trematominae   798   32.0
+25354 25820    South Orkney Is. 2009                  cryodraco_antarcticus-channichthyidae   750   38.0
+25355 25821    South Orkney Is. 2009                  cryodraco_antarcticus-channichthyidae   750   34.0
+25356 25822    South Orkney Is. 2009                  cryodraco_antarcticus-channichthyidae   750   34.0
+25357 25823    South Orkney Is. 2009                  cryodraco_antarcticus-channichthyidae   750   38.0
+25358 25824    South Orkney Is. 2009                  cryodraco_antarcticus-channichthyidae   750   46.0
+25359 25825    South Orkney Is. 2009                  cryodraco_antarcticus-channichthyidae   750   45.0
+25360 25826    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  224.0
+25361 25827    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  192.0
+25362 25828    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  121.0
+25363 25829    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  211.0
+25364 25830    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  182.0
+25365 25831    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  130.0
+25366 25832    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750     NA
+25367 25833    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  123.0
+25368 25834    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  211.0
+25369 25835    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  190.0
+25370 25836    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  124.0
+25371 25837    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  124.0
+25372 25838    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  108.0
+25373 25839    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  199.0
+25374 25840    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  146.0
+25375 25841    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  122.0
+25376 25842    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  187.0
+25377 25843    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  127.0
+25378 25844    South Orkney Is. 2009                                 lepi_squa-trematominae   750   34.0
+25379 25845    South Orkney Is. 2009                     trematomus_loenbergii-trematominae   750   20.0
+25380 25846    South Orkney Is. 2009                pogonophryne_barsukovi-artedidraconidae   750   21.0
+25381 25847    South Orkney Is. 2009                pogonophryne_barsukovi-artedidraconidae   750   20.0
+25382 25848    South Orkney Is. 2009                pogonophryne_barsukovi-artedidraconidae   750   23.0
+25383 25850    South Orkney Is. 2009                   gymnodraco_acuticeps-bathydraconidae   750   25.0
+25384 25851    South Orkney Is. 2009                   gymnodraco_acuticeps-bathydraconidae   750   30.0
+25385 25852    South Orkney Is. 2009    nototheniids_aethotaxis mitopteryx-artedidraconidae   750   21.0
+25386 25853    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  194.0
+25387 25854    South Orkney Is. 2009 nototheniids_pleuragramma antarcticum-artedidraconidae   750  258.0
+25388 25855    South Orkney Is. 2009                        trematomus_hansoni-trematominae   750   35.0
+25389 25856    South Orkney Is. 2009                        trematomus_hansoni-trematominae   750   28.0
+25390 25857    South Orkney Is. 2009                        trematomus_hansoni-trematominae   750   28.0
+ [ reached 'max' / getOption("max.print") -- omitted 376 rows ]
+
