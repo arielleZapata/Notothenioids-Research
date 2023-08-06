@@ -6,7 +6,7 @@ unique(depth.data$Region)
 
 # subset the data sets by location
 depth.data.South.Shetland.Is <- subset(depth.data, Region == 'South Shetland Is.')
-unique(depth.data.South.Shetland$Region)
+unique(depth.data.South.Shetland.Is$Region)
 
 depth.data.South.Orkney.Is.1 <- subset(depth.data, Region == 'South Orkney Is.')
 depth.data.South.Orkney.Is.2 <- subset(depth.data, Region == 'South Orkney Island')

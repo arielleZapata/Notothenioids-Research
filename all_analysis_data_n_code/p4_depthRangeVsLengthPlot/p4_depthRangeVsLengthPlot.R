@@ -10,6 +10,8 @@ library(tidyquant)
 # inputs
 depth.data.filtered <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p2_pholomorpho+depthPlots/depth.data.filtered_OUTPUTS.csv") # csv of depth.data.filtered data
 
+# ADD FILTERED DATA FOR EACH LOCATION
+
 # create a vector to store the group identities
 groups <- character(length(depth.data.filtered$Depth))
 

@@ -6,6 +6,22 @@
 PCA <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/PCAcomps_OUTPUTS.csv") # csv of PCA data
 new.tree <- read.tree("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/new.tree.tre") # import trimmed phylogenetic tree
 
+depth.0TO100 <- readRDS("depth.0TO100_OUTPUTS.RData")
+depth.101TO200 <- readRDS("depth.101TO200_OUTPUTS.RData")
+depth.201TO300 <- readRDS("depth.201TO300_OUTPUTS.RData")
+depth.301TO400 <- readRDS("depth.301TO400_OUTPUTS.RData")
+depth.401TO500 <- readRDS("depth.401TO500_OUTPUTS.RData")
+depth.501TO600 <- readRDS("depth.501TO600_OUTPUTS.RData")
+depth.601TO700 <- readRDS("depth.601TO700_OUTPUTS.RData")
+depth.701TO800 <- readRDS("depth.701TO800_OUTPUTS.RData")
+
+depth.0TO200 <- readRDS("depth.0TO200_OUTPUTS.RData")
+depth.201TO400 <- readRDS("depth.201TO400_OUTPUTS.RData")
+depth.401TO600 <- readRDS("depth.401TO600_OUTPUTS.RData")
+depth.601TO800 <- readRDS("depth.601TO800_OUTPUTS.RData")
+
+# ADD LISTS DATA FOR EACH LOCATION
+
 ## make facet plot for all morpho spaces by 100s
 # make morpho space for 0-100 
 positions <- which(rownames(PCA$x) %in% depth.0TO100$Taxon)

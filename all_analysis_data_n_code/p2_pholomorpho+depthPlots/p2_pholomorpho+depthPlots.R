@@ -15,6 +15,12 @@ depthNameChange <- read.csv("~/Notothenioids_research/repository/all_analysis_da
 PCA <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/PCAcomps_OUTPUTS.csv") # csv of PCA data
 new.tree <- read.tree("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/new.tree.tre") # import trimmed phylogenetic tree
 
+# location site input
+depth.data.Antarctic.Peninsula <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/depth.data.Antarctic.Peninsula.csv") # depth data for Antarctic Peninsula fish
+depth.data.Elephant.Island <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/depth.data.Elephant.Island.csv") # depth data for Antarctic Peninsula fish
+depth.data.South.Orkney.Is <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/depth.data.South.Orkney.Is.csv") # depth data for Antarctic Peninsula fish
+depth.data.South.Shetland.Is <-  read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/depth.data.South.Shetland.Is.csv") # depth data for Antarctic Peninsula fish
+
 # change depth data names to names in tree
 for (i in 1:length(depth.data$Taxon)){
   for (j in 1:length(depthNameChange$Old)){
@@ -78,9 +84,24 @@ plot(area.val,main="Depth Range vs CHull Area by the 200s",xlab="Depth Range (ft
 ### CSV - depth.data.filtered
 write.csv(depth.data.filtered, "depth.data.filtered_OUTPUTS.csv")
 
-### LLO
-#saveList(object = list.of.depth.data.100s, file = "listOfDepthData100s_OUTPUTS.llo", append = FALSE, compress = TRUE)
-#saveList(object = list.of.depth.data.200s, file = "listOfDepthData200s_OUTPUTS.llo", append = FALSE, compress = TRUE)
+### RData
+saveRDS(object = list.of.depth.data.100s, file = "listOfDepthData100s_OUTPUTS.RData")
+saveRDS(object = list.of.depth.data.200s, file = "listOfDepthData200s_OUTPUTS.RData")
+
+saveRDS(object = depth.0TO100, file = "depth.0TO100_OUTPUTS.RData")
+saveRDS(object = depth.101TO200, file = "depth.101TO200_OUTPUTS.RData")
+saveRDS(object = depth.201TO300, file = "depth.201TO300_OUTPUTS.RData")
+saveRDS(object = depth.301TO400, file = "depth.301TO400_OUTPUTS.RData")
+saveRDS(object = depth.401TO500, file = "depth.401TO500_OUTPUTS.RData")
+saveRDS(object = depth.501TO600, file = "depth.501TO600_OUTPUTS.RData")
+saveRDS(object = depth.601TO700, file = "depth.601TO700_OUTPUTS.RData")
+saveRDS(object = depth.701TO800, file = "depth.701TO800_OUTPUTS.RData")
+
+saveRDS(object = depth.0TO200, file = "depth.0TO200_OUTPUTS.RData")
+saveRDS(object = depth.201TO400, file = "depth.201TO400_OUTPUTS.RData")
+saveRDS(object = depth.401TO600, file = "depth.401TO600_OUTPUTS.RData")
+saveRDS(object = depth.601TO800, file = "depth.601TO800_OUTPUTS.RData")
+
 
 ### PDF
 pdf(file= "cHullAreas100s+cHullAreas100s_OUTPUTS.pdf")
