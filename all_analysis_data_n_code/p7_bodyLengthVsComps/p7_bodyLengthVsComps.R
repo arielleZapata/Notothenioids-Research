@@ -14,8 +14,6 @@ fishBase.nameChange <- read.csv("~/Notothenioids_research/repository/all_analysi
 new.tree <- read.tree("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/notothenioid_timetree.tre") # import trimmed phylogenetic tree
 csv.names <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/updated_names.csv",header=FALSE) # csv of name replacement for tree
 
-# ADD FILTERED DATA FOR EACH LOCATION
-
 # match PCA names to fishBase names
 pca.data <- PCA
 size.data <- change.name.fishBase(depth.data.filtered)

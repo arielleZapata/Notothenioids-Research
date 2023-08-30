@@ -1,5 +1,5 @@
 "","Comp1","Comp2"
-"nototheniid_gobinotothen gibberifrons-artedidraconidae",-0.0841067022584663,0.0140762366097967
+"nototheniid_gobinotothen gibberifrons",-0.0841067022584663,0.0140762366097967
 "notothenia_corriceps-nototheniidae",0.0180323020982553,-0.0153011344501963
 "harpagifer_antarcticus-harpagiferidae",0.0124788742342753,-0.020299180217467
 "artedidraco_skottsbergi-artedidraconidae",-0.0883195144204048,0.0165867233639738
@@ -16,8 +16,8 @@
 "champsocephalus_esox-channichthyidae",-0.0419618559556696,-0.0774773962517064
 "champsocephalus_gunnari-channichthyidae",0.00124633058511606,-0.0669813386979801
 "dacodraco_hunteri-channichthyidae",-0.0860434749299965,0.061612225059333
-"pseudochaenichthys georgianus-channichthyidae",-0.0760180778001216,0.0695417463832045
-"pagetopsis macropterus-channichthyidae",0.0418610833905182,0.0415045310125383
+"pseudochaenichthys_georgianus-channichthyidae",-0.0760180778001216,0.0695417463832045
+"pagetopsis_macropterus-channichthyidae",0.0418610833905182,0.0415045310125383
 "chaenodraco_wilsoni-channichthyidae",0.0722970847252478,0.0657472081896965
 "chiondraco_myersi-channichthyidae",0.06446593729431,0.0724361231069063
 "chionodraco_rastrospinosus-channichthyidae",0.0657174778886162,0.0707756222014949
@@ -37,10 +37,10 @@
 "parachaenichthys_georgianus-artedidraconidae",0.0371398242125413,0.0803948904845447
 "cygnodraco_mawsoni-artedidraconidae",0.0310889752180073,0.0869755070056415
 "gymnodraco_acuticeps-bathydraconidae",0.0343073309695027,-0.012301477944587
-"nototheniids_pleuragramma antarcticum-artedidraconidae",0.0751893791882175,0.0737079613800019
-"nototheniid_dissostichus mawsoni-artedidraconidae",0.0574120077752188,-0.0502466173747744
-"nototheniids_dissostichus eleginoides-artedidraconidae",0.0523653528721585,0.0540196613997062
-"nototheniids_aethotaxis mitopteryx-artedidraconidae",0.0574818788936649,0.0548291903764615
+"nototheniids_pleuragramma antarcticum",0.0751893791882175,0.0737079613800019
+"nototheniid_dissostichus mawsoni",0.0574120077752188,-0.0502466173747744
+"nototheniids_dissostichus eleginoides",0.0523653528721585,0.0540196613997062
+"nototheniids_aethotaxis mitopteryx",0.0574818788936649,0.0548291903764615
 "lepi_squa-trematominae",0.0542201129269248,0.057687456049785
 "patagonotothen_sima-trematominae",-0.00248734443971814,-0.056181018751519
 "patagonotothen_elegans-trematominae",0.0336777035405442,-0.0619352630737461
@@ -58,5 +58,5 @@
 "trematomus_bernacchii-trematominae",0.0627519048257577,-0.0370593078618007
 "trematomus_hansoni-trematominae",0.0705353252736762,-0.0303855429073558
 "trematomus_eulepidotus-trematominae",0.032163307629705,-0.0426411274567015
-"nototheniids_trematomus lepidorhinus-artedidraconidae",0.00757282929846392,-0.0338659719915437
+"nototheniids_trematomus lepidorhinus",0.00757282929846392,-0.0338659719915437
 "trematomus_loenbergii-trematominae",0.0335860788195659,-0.0372876762198375

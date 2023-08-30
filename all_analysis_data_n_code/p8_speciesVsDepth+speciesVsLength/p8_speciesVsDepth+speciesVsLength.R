@@ -1,7 +1,7 @@
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # PT8 = p8_speciesVsDepth+speciesVsLength
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+ 
 # libraries
 library(ggplot2)
 library(ggridges)
@@ -11,12 +11,6 @@ library(dplyr)
 depth.data <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/CombinedAntarcticData.csv") # depth data for fish
 depth.data.filtered <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p2_pholomorpho+depthPlots/depth.data.filtered_OUTPUTS.csv") # csv of depth.data.filtered data
 merged_data.revLog <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p7_bodyLengthVsComps/merged_data.revLog.csv") # csv of the fishbase length
-
-# location site input
-depth.data.Antarctic.Peninsula <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/depth.data.Antarctic.Peninsula.csv") # depth data for Antarctic Peninsula fish
-depth.data.Elephant.Island <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/depth.data.Elephant.Island.csv") # depth data for Antarctic Peninsula fish
-depth.data.South.Orkney.Is <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/depth.data.South.Orkney.Is.csv") # depth data for Antarctic Peninsula fish
-depth.data.South.Shetland.Is <-  read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/depth.data.South.Shetland.Is.csv") # depth data for Antarctic Peninsula fish
 
 # plot species vs depth
 dev.new()

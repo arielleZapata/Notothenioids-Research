@@ -15,12 +15,6 @@ depthNameChange <- read.csv("~/Notothenioids_research/repository/all_analysis_da
 PCA <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/PCAcomps_OUTPUTS.csv") # csv of PCA data
 new.tree <- read.tree("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/new.tree.tre") # import trimmed phylogenetic tree
 
-# location site input
-depth.data.Antarctic.Peninsula <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/depth.data.Antarctic.Peninsula.csv") # depth data for Antarctic Peninsula fish
-depth.data.Elephant.Island <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/depth.data.Elephant.Island.csv") # depth data for Antarctic Peninsula fish
-depth.data.South.Orkney.Is <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/depth.data.South.Orkney.Is.csv") # depth data for Antarctic Peninsula fish
-depth.data.South.Shetland.Is <-  read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/depth.data.South.Shetland.Is.csv") # depth data for Antarctic Peninsula fish
-
 # change depth data names to names in tree
 for (i in 1:length(depth.data$Taxon)){
   for (j in 1:length(depthNameChange$Old)){
@@ -107,5 +101,7 @@ saveRDS(object = depth.601TO800, file = "depth.601TO800_OUTPUTS.RData")
 pdf(file= "cHullAreas100s+cHullAreas100s_OUTPUTS.pdf")
 plot(area.val,main="Depth Range vs CHull Area by the 100s",xlab="Depth Range (ft)",ylab="CHull Area", type = "l")
 plot(area.val,main="Depth Range vs CHull Area by the 200s",xlab="Depth Range (ft)",ylab="CHull Area", type = "l")
+# all other plots will be in facet plots for simplicity
 dev.off() 
+
 
