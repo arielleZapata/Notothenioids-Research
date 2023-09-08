@@ -59,9 +59,9 @@ a6 <- calcConvex.phylomorpho.chull(depth.501TO600,"Depth: 501-600",new.tree)
 a8 <- calcConvex.phylomorpho.chull(depth.701TO800,"Depth: 701-800",new.tree)
 
 # calculate and plot the areas for the 100s
-area.val <- c(a1[[2]],a2[[2]],a3[[2]],a4[[2]],a5[[2]],a6[[2]],a8[[2]])
+area.val1 <- c(a1[[2]],a2[[2]],a3[[2]],a4[[2]],a5[[2]],a6[[2]],a8[[2]])
 dev.new()
-plot(area.val,main="Antarctic Peninsula Depth Range vs CHull Area by the 100s",xlab="Depth Range (ft)",ylab="CHull Area", type = "l")
+plot(area.val1,main="Antarctic Peninsula Depth Range vs CHull Area by the 100s",xlab="Depth Range (ft)",ylab="CHull Area", type = "l")
 
 # run function on 0-800 by 200s
 b1 <- calcConvex.phylomorpho.chull(depth.0TO200,"Depth: 0-200",new.tree)
@@ -70,9 +70,9 @@ b3 <- calcConvex.phylomorpho.chull(depth.401TO600,"Depth: 401-600",new.tree)
 b4 <- calcConvex.phylomorpho.chull(depth.601TO800,"Depth: 601-800",new.tree)
 
 # calculate and plot the areas for the 200s
-area.val <- c(b1[[2]],b2[[2]],b3[[2]],b4[[2]])
+area.val2 <- c(b1[[2]],b2[[2]],b3[[2]],b4[[2]])
 dev.new()
-plot(area.val,main="Depth Range vs CHull Area by the 200s",xlab="Depth Range (ft)",ylab="CHull Area", type = "l")
+plot(area.val2,main="Depth Range vs CHull Area by the 200s",xlab="Depth Range (ft)",ylab="CHull Area", type = "l")
 
 ## ----------outputs----------
 ### CSV - depth.data.filtered
@@ -98,7 +98,7 @@ saveRDS(object = depth.601TO800, file = "DDAP.depth.601TO800_OUTPUTS.RData")
 
 ### PDF
 pdf(file= "DDAP1.cHullAreas100s+cHullAreas100s_OUTPUTS.pdf")
-plot(area.val,main="Depth Range vs CHull Area by the 100s",xlab="Depth Range (ft)",ylab="CHull Area", type = "l")
-plot(area.val,main="Depth Range vs CHull Area by the 200s",xlab="Depth Range (ft)",ylab="CHull Area", type = "l")
+plot(area.val1,main="Depth Range vs CHull Area by the 100s",xlab="Depth Range (ft)",ylab="CHull Area", type = "l")
+plot(area.val2,main="Depth Range vs CHull Area by the 200s",xlab="Depth Range (ft)",ylab="CHull Area", type = "l")
 dev.off() 
 

@@ -10,9 +10,8 @@ library(dplyr)
 # inputs
 depth.data <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/depth.data.Antarctic.Peninsula.csv") # depth data for fish
 depth.data.filtered <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.data.filtered_OUTPUTS.csv") # csv of depth.data.filtered data
-merged_data.revLog <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP6_bodyLengthVsComps/merged_data.revLog.csv") # csv of the fishbase length
+merged_data <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP6_bodyLengthVsComps/merged_data.csv") # csv of the fishbase length
 
-# plot species vs depth
 dev.new()
 ggplot(depth.data,aes(x= Depth,y=Taxon, fill = stat(x))) +
   geom_density_ridges_gradient(scale = 3, rel_min_height = 0.01) + 
@@ -27,11 +26,14 @@ targets <- unique(depth.data.filtered$Taxon)
 for(k in 1:length(targets)){
   target <- targets[k]
   subsample <- depth.data.filtered %>% filter(Taxon == target)
-  locationInMergedData <- which(merged_data.revLog$X == targets[k])
-  body.size <- subsample$Length
-  max.length <- merged_data.revLog$Size[locationInMergedData]
-  smaller.than.max <- subsample %>% filter(body.size < max.length)
-  smaller.than.max.df <- rbind(smaller.than.max.df,smaller.than.max)
+  locationInMergedData <- which(target %in% merged_data$X)
+  
+  if (length(locationInMergedData) > 0) {
+    body.size <- subsample$Length
+    max.length <- merged_data$SizeData[locationInMergedData]
+    smaller.than.max <- subsample %>% filter(body.size < max.length)
+    smaller.than.max.df <- rbind(smaller.than.max.df, smaller.than.max)
+  }
 }
 
 # plot species vs filtered length
@@ -44,7 +46,7 @@ ggplot(smaller.than.max.df,aes(x=Length,y=Taxon,fill = after_stat(x))) +
 
 ## ----------outputs----------
 # PDF
-pdf(file= "speciesVsDepth+speciesVsLength_OUTPUTS.pdf" )
+pdf(file= "DDAP7.speciesVsDepth+speciesVsLength_OUTPUTS.pdf" )
 ggplot(depth.data,aes(x= Depth,y=Taxon, fill = stat(x))) +
   geom_density_ridges_gradient(scale = 3, rel_min_height = 0.01) + 
   scale_fill_viridis_c(name = "Depth", option = "C") + 

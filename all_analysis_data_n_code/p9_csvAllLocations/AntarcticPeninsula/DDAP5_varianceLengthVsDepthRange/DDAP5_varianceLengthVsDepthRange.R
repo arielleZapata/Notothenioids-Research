@@ -39,7 +39,7 @@ ggplot(var.200s,aes(x = x,y = y))+
 
 ## Outputs
 ### PDF
-pdf(file= "plot100svariance+plot200svariance_OUTPUTS.pdf")
+pdf(file= "DDAP5.plot100svariance+plot200svariance_OUTPUTS.pdf")
 ggplot(var.100s,aes(x = x,y = y))+ 
   geom_segment(aes(x=x, xend=x, y=0, yend=y))+ 
   geom_point(size=5, color="purple", fill=alpha("pink", 0.3), alpha=0.7, shape=21, stroke=2) 

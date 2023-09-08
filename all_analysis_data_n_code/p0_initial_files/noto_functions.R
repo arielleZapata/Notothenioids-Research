@@ -84,16 +84,16 @@ change.name.PCA <- function(data){
 }
 # make morpho space for depth range
 make.morpho.depth <- function(PCA,Range=depth.0TO100,tree=new.tree,title="Depth: 0-100",...){
-positions <- which(PCA$X %in% depth.0TO100$Taxon)
-PCAsubset <- PCA[positions,]
-tipsTOdrop <- c(PCA$X)
-diff <- setdiff(tipsTOdrop,PCA$X[positions])
-temp.tree <- drop.tip(new.tree,diff)
-diff2 <- temp.tree$tip.label[which(!temp.tree$tip.label%in%PCA$X)]
-temp.tree <- drop.tip(temp.tree,diff2)
-space1_input <- data.frame(cbind(PCAsubset$Comp1,PCAsubset$Comp2))
-rownames(space1_input) <- PCAsubset$X
-space1 <- phylomorphospace(temp.tree,space1_input,label="radial",xlab="PCA1",ylab="PCA2")
-title(title)
-return(list(space1_input,space1))
+  positions <- which(PCA$X %in% Range$Taxon)
+  PCAsubset <- PCA[positions,]
+  tipsTOdrop <- c(PCA$X)
+  diff <- setdiff(tipsTOdrop,PCA$X[positions])
+  temp.tree <- drop.tip(new.tree,diff)
+  diff2 <- temp.tree$tip.label[which(!temp.tree$tip.label%in%PCA$X)]
+  temp.tree <- drop.tip(temp.tree,diff2)
+  space1_input <- data.frame(cbind(PCAsubset$Comp1,PCAsubset$Comp2))
+  rownames(space1_input) <- PCAsubset$X
+  space1 <- phylomorphospace(temp.tree,space1_input,label="radial",xlab="PCA1",ylab="PCA2")
+  title(title)
+  return(list(space1_input,space1))
 }

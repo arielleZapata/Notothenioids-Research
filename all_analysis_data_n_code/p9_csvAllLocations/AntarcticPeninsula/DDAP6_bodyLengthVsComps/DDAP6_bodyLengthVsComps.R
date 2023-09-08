@@ -24,16 +24,18 @@ matching_indices <- match(names(size.data), fishB.names$New)
 SizeData <- size.data[matching_indices]
 df <- do.call(rbind, SizeData)
 SizeData.df <- as.data.frame(df)
-fishB.names$SizeData<-SizeData.df$V1
-names(fishB.names)<-c("New","X","Size")
+names(SizeData.df) <- "SizeData"
+SizeData.df$New <- rownames(SizeData.df)
+
+mergedSizeData <- merge(SizeData.df,fishB.names,by="New",all.x=TRUE)
 pca.df <- data.frame(pca.data)
-BSData <- fishB.names[,2:3]
+names(pca.df) <- c("Old","Comp1","Comp2")
 
 # merge the data at column X
-merged_data <- merge(pca.df, BSData, by = "X", all.x = TRUE)
+merged_data <- merge(pca.df, mergedSizeData, by = "Old", all.x = TRUE)
 merged_data <- na.omit(merged_data)
-rownames(merged_data) <- merged_data$X
-merged_data[,4] <- log(merged_data[,4])
+rownames(merged_data) <- merged_data$Old
+merged_data$LogSize <- log(merged_data$SizeData)
 matrix_merged_data <- data.matrix(merged_data)
 
 # rename the tree to match data
@@ -46,32 +48,33 @@ for(i in 1:nrow(csv.names)) {
     new.tree$tip.label[new.tree$tip.label==csv.names[i, 1]] <- csv.names[i, 2]
   }
 }
-diff.tips.fishBase <- setdiff(new.tree$tip.label,merged_data$X)
+diff.tips.fishBase <- setdiff(new.tree$tip.label,merged_data$Old)
 fishBase.tree <- drop.tip(new.tree,diff.tips.fishBase)
 dev.new()
 plot(fishBase.tree)
 
+colnames(matrix_merged_data) <- names(merged_data)
+
 # display the new phylomorphospaces
 dev.new()
-phylomorphospace(fishBase.tree,merged_data[,c(2,4)],label=FALSE)
+output1 <- phylomorphospace(fishBase.tree,matrix_merged_data[,c("Comp1","LogSize")],label=FALSE)
 title(main="Phylomorphospace Plot of Comp1",font.main=3)
 
-dev.new(width=5, height=5, unit="in")
-phylomorphospace(fishBase.tree,merged_data[,c(3,4)],label=FALSE)
+output2 <- dev.new(width=5, height=5, unit="in")
+phylomorphospace(fishBase.tree,matrix_merged_data[,c("Comp2","LogSize")],label=FALSE)
 title(main="Phylomorphospace Plot of Comp2",font.main=3)
 
 ## ----------outputs----------
 ### CSV
-merged_data.revLog <- merged_data
-merged_data.revLog$Size <- exp(merged_data.revLog$Size)
-write.csv(merged_data.revLog,file="merged_data.revLog.csv")
+write.csv(merged_data,file="merged_data.csv")
 
 ### PDF
 pdf(file= "DDAP6.bodyLengthVsComps_OUTPUTS.pdf")
-phylomorphospace(fishBase.tree,merged_data[,c(2,4)],label=FALSE)
+
+phylomorphospace(fishBase.tree,matrix_merged_data[,c("Comp1","LogSize")],label=FALSE)
 title(main="Phylomorphospace Plot of Comp1",font.main=3)
 
-phylomorphospace(fishBase.tree,merged_data[,c(3,4)],label=FALSE)
+phylomorphospace(fishBase.tree,matrix_merged_data[,c("Comp2","LogSize")],label=FALSE)
 title(main="Phylomorphospace Plot of Comp2",font.main=3)
 
 plot(fishBase.tree)

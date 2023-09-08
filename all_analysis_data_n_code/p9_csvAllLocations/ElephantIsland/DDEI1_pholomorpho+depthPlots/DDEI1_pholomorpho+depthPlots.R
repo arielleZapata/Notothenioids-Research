@@ -32,16 +32,16 @@ depth.0TO100 <- subset(depth.data,depth.data$Depth>0 & depth.data$Depth<=100)
 depth.101TO200 <- subset(depth.data,depth.data$Depth>101 & depth.data$Depth<=200)
 depth.201TO300 <- subset(depth.data,depth.data$Depth>201 & depth.data$Depth<=300)
 depth.301TO400 <- subset(depth.data,depth.data$Depth>301 & depth.data$Depth<=400)
-#depth.401TO500 <- subset(depth.data,depth.data$Depth>401 & depth.data$Depth<=500)
-#depth.501TO600 <- subset(depth.data,depth.data$Depth>501 & depth.data$Depth<=600)
-#depth.601TO700 <- subset(depth.data,depth.data$Depth>601 & depth.data$Depth<=700)
-#depth.701TO800 <- subset(depth.data,depth.data$Depth>701 & depth.data$Depth<=800)
+depth.401TO500 <- subset(depth.data,depth.data$Depth>401 & depth.data$Depth<=500)
+depth.501TO600 <- subset(depth.data,depth.data$Depth>501 & depth.data$Depth<=600)
+depth.601TO700 <- subset(depth.data,depth.data$Depth>601 & depth.data$Depth<=700)
+depth.701TO800 <- subset(depth.data,depth.data$Depth>701 & depth.data$Depth<=800)
 
 # subset data using 0-200,201-400,401-600,601-800
 depth.0TO200 <- subset(depth.data,depth.data$Depth>0 & depth.data$Depth<=200)
 depth.201TO400 <- subset(depth.data,depth.data$Depth>201 & depth.data$Depth<=400)
-#depth.401TO600 <- subset(depth.data,depth.data$Depth>401 & depth.data$Depth<=600)
-#depth.601TO800 <- subset(depth.data,depth.data$Depth>601 & depth.data$Depth<=800)
+depth.401TO600 <- subset(depth.data,depth.data$Depth>401 & depth.data$Depth<=600)
+depth.601TO800 <- subset(depth.data,depth.data$Depth>601 & depth.data$Depth<=800)
 
 # create new df based on the species from phylomorphospace
 depth.data.filtered <- rbind(depth.0TO100,depth.101TO200,depth.201TO300,depth.301TO400,depth.401TO500,depth.501TO600,depth.601TO700,depth.701TO800)
@@ -61,7 +61,7 @@ a4 <- calcConvex.phylomorpho.chull(depth.301TO400,"Depth: 301-400",new.tree)
 # calculate and plot the areas for the 100s
 area.val1 <- c(a1[[2]],a2[[2]],a3[[2]],a4[[2]])
 dev.new()
-plot(area.val,main="Antarctic Peninsula Depth Range vs CHull Area by the 100s",xlab="Depth Range (ft)",ylab="CHull Area", type = "l")
+plot(area.val1,main="Antarctic Peninsula Depth Range vs CHull Area by the 100s",xlab="Depth Range (ft)",ylab="CHull Area", type = "l")
 
 # run function on 0-800 by 200s
 b1 <- calcConvex.phylomorpho.chull(depth.0TO200,"Depth: 0-200",new.tree)
@@ -72,7 +72,7 @@ b2 <- calcConvex.phylomorpho.chull(depth.201TO400,"Depth: 201-400",new.tree)
 # calculate and plot the areas for the 200s
 area.val2 <- c(b1[[2]],b2[[2]])
 dev.new()
-plot(area.val,main="Depth Range vs CHull Area by the 200s",xlab="Depth Range (ft)",ylab="CHull Area", type = "l")
+plot(area.val2,main="Depth Range vs CHull Area by the 200s",xlab="Depth Range (ft)",ylab="CHull Area", type = "l")
 
 ## ----------outputs----------
 ### CSV - depth.data.filtered
