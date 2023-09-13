@@ -10,9 +10,7 @@ library(dplyr)
 # inputs
 depth.data <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/CombinedAntarcticData.csv") # depth data for fish
 depth.data.filtered <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p2_pholomorpho+depthPlots/depth.data.filtered_OUTPUTS.csv") # csv of depth.data.filtered data
-merged_data.revLog <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p7_bodyLengthVsComps/merged_data.csv") # csv of the fishbase length
-
-# plot species vs depth
+merged_data <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p7_bodyLengthVsComps/merged_data.csv") # csv of the fishbase length
 
 dev.new()
 ggplot(depth.data,aes(x= Depth,y=Taxon, fill = stat(x))) +
@@ -48,7 +46,7 @@ ggplot(smaller.than.max.df,aes(x=Length,y=Taxon,fill = after_stat(x))) +
 
 ## ----------outputs----------
 # PDF
-pdf(file= "speciesVsDepth+speciesVsLength_OUTPUTS.pdf" )
+pdf(file= "p8.speciesVsDepth+speciesVsLength_OUTPUTS.pdf" )
 ggplot(depth.data,aes(x= Depth,y=Taxon, fill = stat(x))) +
   geom_density_ridges_gradient(scale = 3, rel_min_height = 0.01) + 
   scale_fill_viridis_c(name = "Depth", option = "C") + 
