@@ -1,7 +1,8 @@
 # make morpho spaces + calculate convex hulls function
-calcConvex.phylomorpho.chull <- function(df,title,new.tree){
+calcConvex.phylomorpho.chull <-function(df,title,new.tree,dfName="Taxon"){
   rownames(PCA) <- PCA$X
-  positions <- which(PCA$X %in% df$Taxon)
+  targetColumn<-which(colnames(df)== dfName)
+  positions <- which(PCA$X %in% df[,targetColumn])
   tipsTOdrop <- PCA$X
   diff <- setdiff(tipsTOdrop,rownames(PCA[positions,2:3]))
   td <- treedata(new.tree,PCA[positions,2:3])  
@@ -11,11 +12,12 @@ calcConvex.phylomorpho.chull <- function(df,title,new.tree){
   title(main=title)
   pc <- as_tibble(PCA[positions,2:3])
   chull<-chull(pc)
-  convex_hull <- pc %>% slice(chull)
+  convex_hull <- pc %>% dplyr::slice(chull)
   area <- as.matrix(convex_hull) %>% areapl
   output<-list(space,area)
   return(output)
 }
+
 # phylomorpho to dataframe function
 phytools2ggplot<-function(phylomorphospace){
   output <-data.frame(
@@ -39,15 +41,15 @@ calc.variance <- function(df){
 }
 # change names in data to match fishBase names
 change.name.fishBase <- function(data){
-  for (i in 1:length(data$Taxon)){
+  for (i in 1:length(data$Species)){
     for (j in 1:length(fishBase.nameChange$Old)){
-      if (data$Taxon[i] == fishBase.nameChange$Old[j]){
-        data$Taxon[i]<-fishBase.nameChange$New[j]
+      if (data$Species[i] == fishBase.nameChange$Old[j]){
+        data$Species[i]<-fishBase.nameChange$New[j]
       }
     }
   }
   # use FishBase to find valid names and make a new file with updated names
-  species_names <- unique(data$Taxon)
+  species_names <- unique(data$Species)
   lengths <- c()
   for (i in species_names){
     dat <- species(i, fields=c("Length"))
@@ -83,8 +85,9 @@ change.name.PCA <- function(data){
   return(data)
 }
 # make morpho space for depth range
-make.morpho.depth <- function(PCA,Range=depth.0TO100,tree=new.tree,title="Depth: 0-100",...){
-  positions <- which(PCA$X %in% Range$Taxon)
+make.morpho.depth <- function(PCA,Range=depth.0TO100,tree=new.tree,title="Depth: 0-100",dfName="Taxon",...){
+  targetColumn<-which(colnames(Range)== dfName)
+  positions <- which(PCA$X %in% Range[,targetColumn])
   PCAsubset <- PCA[positions,]
   tipsTOdrop <- c(PCA$X)
   diff <- setdiff(tipsTOdrop,PCA$X[positions])

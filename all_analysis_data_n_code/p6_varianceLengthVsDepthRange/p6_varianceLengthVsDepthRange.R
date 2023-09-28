@@ -10,7 +10,7 @@ list.of.depth.data.200s <- readRDS("~/Notothenioids_research/repository/all_anal
 # apply function to all the depth ranges by 100s
 var.100s <- lapply(list.of.depth.data.100s,calc.variance)
 var.100s <- data.frame(var.100s)
-colnames(var.100s) <- list("0to100","101to200","201to300","301to400","401to500","501to600","601to700","701to800")
+colnames(var.100s) <- list("0to100","101to200","201to300","301to400","401to500","501to600","601to700","701to800","800+")
 var.100s <- t(var.100s)
 var.100s <- data.frame(var.100s)
 var.100s <- tibble::rownames_to_column(var.100s, "x")
@@ -25,7 +25,7 @@ ggplot(var.100s,aes(x = x,y = y))+
 # apply function to all the depth ranges by 200s
 var.200s <- lapply(list.of.depth.data.200s,calc.variance)
 var.200s <- data.frame(var.200s)
-colnames(var.200s) <- list("0to200","201to400","401to600","601to800")
+colnames(var.200s) <- list("0to200","201to400","401to600","601to800","800+")
 var.200s <- t(var.200s)
 var.200s <- data.frame(var.200s)
 var.200s <- tibble::rownames_to_column(var.200s, "x")

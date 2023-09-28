@@ -12,7 +12,7 @@ list.of.depth.data.200s <- readRDS("~/Notothenioids_research/repository/all_anal
 # apply function to all the depth ranges by 100s
 iqr.100s <- lapply(list.of.depth.data.100s,calc.inter.quartile)
 iqr.100s <- data.frame(iqr.100s)
-colnames(iqr.100s) <- list("0to100","101to200","201to300","301to400","401to500","501to600","601to700","701to800")
+colnames(iqr.100s) <- list("0to100","101to200","201to300","301to400","401to500","501to600","601to700","701to800","800+")
 iqr.100s <- t(iqr.100s)
 iqr.100s <- data.frame(iqr.100s)
 iqr.100s <- tibble::rownames_to_column(iqr.100s, "x")
@@ -28,7 +28,7 @@ ggplot(iqr.100s,aes(x = x , y = y))+
 # apply function to all the depth ranges by 200s
 iqr.200s <- lapply(list.of.depth.data.200s,calc.inter.quartile)
 iqr.200s <- data.frame(iqr.200s)
-colnames(iqr.200s) <- list("0to200","201to400","401to600","601to800")
+colnames(iqr.200s) <- list("0to200","201to400","401to600","601to800","800+")
 iqr.200s <- t(iqr.200s)
 iqr.200s <- data.frame(iqr.200s)
 iqr.200s <- tibble::rownames_to_column(iqr.200s, "x")
