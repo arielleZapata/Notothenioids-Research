@@ -22,6 +22,7 @@ groups[depth.data.filtered$Depth >= 401 & depth.data.filtered$Depth <= 500] <- "
 groups[depth.data.filtered$Depth >= 501 & depth.data.filtered$Depth <= 600] <- "501to600"
 groups[depth.data.filtered$Depth >= 601 & depth.data.filtered$Depth <= 700] <- "601to700"
 groups[depth.data.filtered$Depth >= 701 & depth.data.filtered$Depth <= 800] <- "701to800"
+groups[depth.data.filtered$Depth >= 801] <- "800+"
 
 # add the group column to the data frame
 depth.data.filtered$group <- groups
