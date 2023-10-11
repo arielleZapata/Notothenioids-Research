@@ -25,9 +25,6 @@ for (i in 1:length(depth.data$Taxon)){
   }
 }
 
-# other depth data 
-#more.depth.data <- more.depth.data %>% mutate_all(funs(str_replace(Species, "Trematomus scottii", "Trematomus scotti")))
-
 # Function to replace species names and filter data
 replace_and_filter_data <- function(data, mapping) {
   # Replace species names
@@ -111,6 +108,7 @@ plot(area.val2,main="Depth Range vs CHull Area by the 200s",xlab="Depth Range (f
 ## ----------outputs----------
 ### CSV - depth.data.filtered
 write.csv(depth.data.filtered, "depth.data.filtered_OUTPUTS.csv")
+write.csv(more.depth.data, "depth.data.New.Location.csv")
 
 ### RData
 saveRDS(object = list.of.depth.data.100s, file = "listOfDepthData100s_OUTPUTS.RData")
@@ -131,7 +129,6 @@ saveRDS(object = depth.201TO400, file = "depth.201TO400_OUTPUTS.RData")
 saveRDS(object = depth.401TO600, file = "depth.401TO600_OUTPUTS.RData")
 saveRDS(object = depth.601TO800, file = "depth.601TO800_OUTPUTS.RData")
 saveRDS(object = depth.greaterThan801, file = "depth.greaterThan801_OUTPUTS.RData")
-
 
 ### PDF
 pdf(file= "cHullAreas100s+cHullAreas100s_OUTPUTS.pdf")
