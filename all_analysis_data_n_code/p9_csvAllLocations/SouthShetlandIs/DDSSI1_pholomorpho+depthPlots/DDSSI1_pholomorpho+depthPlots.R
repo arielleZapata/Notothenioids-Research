@@ -9,17 +9,17 @@ library(geiger)
 library(splancs)
 
 # inputs
-source("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
-depth.data <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/SouthShetlandIs/depth.data.South.Shetland.Is.csv") # depth data for Antarctic Peninsula fish
-depthNameChange <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/FIXEDdepthNames.csv") # csv of name replacement for depth data
-PCA <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/PCAcomps_OUTPUTS.csv") # csv of PCA data
-new.tree <- read.tree("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/new.tree.tre") # import trimmed phylogenetic tree
+source("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
+depth.data <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/SouthShetlandIs/depth.data.South.Shetland.Is.csv") # depth data for Antarctic Peninsula fish
+depthNameChange <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/FIXEDdepthNames.csv") # csv of name replacement for depth data
+PCA <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/PCAcomps_OUTPUTS.csv") # csv of PCA data
+new.tree <- read.tree("~/Notothenioids-Research/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/new.tree.tre") # import trimmed phylogenetic tree
 
-# change depth data names to names in tree
-for (i in 1:length(depth.data$Taxon)){
-  for (j in 1:length(depthNameChange$Old)){
-    if (depth.data$Taxon[i] == depthNameChange$Old[j]){
-      depth.data$Taxon[i]<-depthNameChange$New[j]
+#change depth data names to names in tree
+for (i in 1:length(depth.data$Taxon)) {
+  for (j in 1:length(depthNameChange$Old)) {
+    if (depth.data$Taxon[i] == depthNameChange$Old[j]) {
+      depth.data$Taxon[i] <- depthNameChange$New[j]
     }
   }
 }
@@ -33,15 +33,15 @@ depth.101TO200 <- subset(depth.data,depth.data$Depth>101 & depth.data$Depth<=200
 depth.201TO300 <- subset(depth.data,depth.data$Depth>201 & depth.data$Depth<=300)
 depth.301TO400 <- subset(depth.data,depth.data$Depth>301 & depth.data$Depth<=400)
 depth.401TO500 <- subset(depth.data,depth.data$Depth>401 & depth.data$Depth<=500)
-depth.501TO600 <- subset(depth.data,depth.data$Depth>501 & depth.data$Depth<=600)
-depth.601TO700 <- subset(depth.data,depth.data$Depth>601 & depth.data$Depth<=700)
-depth.701TO800 <- subset(depth.data,depth.data$Depth>701 & depth.data$Depth<=800)
+#depth.501TO600 <- subset(depth.data,depth.data$Depth>501 & depth.data$Depth<=600)
+#depth.601TO700 <- subset(depth.data,depth.data$Depth>601 & depth.data$Depth<=700)
+#depth.701TO800 <- subset(depth.data,depth.data$Depth>701 & depth.data$Depth<=800)
 
 # subset data using 0-200,201-400,401-600,601-800
 depth.0TO200 <- subset(depth.data,depth.data$Depth>0 & depth.data$Depth<=200)
 depth.201TO400 <- subset(depth.data,depth.data$Depth>201 & depth.data$Depth<=400)
 depth.401TO600 <- subset(depth.data,depth.data$Depth>401 & depth.data$Depth<=600)
-depth.601TO800 <- subset(depth.data,depth.data$Depth>601 & depth.data$Depth<=800)
+#depth.601TO800 <- subset(depth.data,depth.data$Depth>601 & depth.data$Depth<=800)
 
 # create new df based on the species from phylomorphospace
 depth.data.filtered <- rbind(depth.0TO100,depth.101TO200,depth.201TO300,depth.301TO400,depth.401TO500,depth.501TO600,depth.601TO700,depth.701TO800)
@@ -49,7 +49,7 @@ list.of.depth.data.100s <- list(depth.0TO100,depth.101TO200,depth.201TO300,depth
 list.of.depth.data.200s <- list(depth.0TO200,depth.201TO400,depth.401TO600,depth.601TO800)
 
 # run function on 0-800 by 100s
-a1 <- calcConvex.phylomorpho.chull(depth.0TO100,"Depth: 0-100",new.tree)
+a1 <- calcConvex.phylomorpho.chull(depth.0TO100,"Depth: 0-100",new.tree,"Taxon")
 a2 <- calcConvex.phylomorpho.chull(depth.101TO200,"Depth: 101-200",new.tree)
 a3 <- calcConvex.phylomorpho.chull(depth.201TO300,"Depth: 201-300",new.tree)
 a4 <- calcConvex.phylomorpho.chull(depth.301TO400,"Depth: 301-400",new.tree)
@@ -87,14 +87,14 @@ saveRDS(object = depth.101TO200, file = "DDSSI.depth.101TO200_OUTPUTS.RData")
 saveRDS(object = depth.201TO300, file = "DDSSI.depth.201TO300_OUTPUTS.RData")
 saveRDS(object = depth.301TO400, file = "DDSSI.depth.301TO400_OUTPUTS.RData")
 saveRDS(object = depth.401TO500, file = "DDSSI.depth.401TO500_OUTPUTS.RData")
-saveRDS(object = depth.501TO600, file = "DDSSI.depth.501TO600_OUTPUTS.RData")
-saveRDS(object = depth.601TO700, file = "DDSSI.depth.601TO700_OUTPUTS.RData")
-saveRDS(object = depth.701TO800, file = "DDSSI.depth.701TO800_OUTPUTS.RData")
+#saveRDS(object = depth.501TO600, file = "DDSSI.depth.501TO600_OUTPUTS.RData")
+#saveRDS(object = depth.601TO700, file = "DDSSI.depth.601TO700_OUTPUTS.RData")
+#saveRDS(object = depth.701TO800, file = "DDSSI.depth.701TO800_OUTPUTS.RData")
 
 saveRDS(object = depth.0TO200, file = "DDSSI.depth.0TO200_OUTPUTS.RData")
 saveRDS(object = depth.201TO400, file = "DDSSI.depth.201TO400_OUTPUTS.RData")
 saveRDS(object = depth.401TO600, file = "DDSSI.depth.401TO600_OUTPUTS.RData")
-saveRDS(object = depth.601TO800, file = "DDSSI.depth.601TO800_OUTPUTS.RData")
+#saveRDS(object = depth.601TO800, file = "DDSSI.depth.601TO800_OUTPUTS.RData")
 
 
 ### PDF

@@ -3,9 +3,9 @@
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 # inputs
-source("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
-list.of.depth.data.100s <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.listOfDepthData100s_OUTPUTS.RData")
-list.of.depth.data.200s <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.listOfDepthData200s_OUTPUTS.RData")
+source("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
+list.of.depth.data.100s <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.listOfDepthData100s_OUTPUTS.RData")
+list.of.depth.data.200s <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.listOfDepthData200s_OUTPUTS.RData")
 
 # apply function to all the depth ranges by 100s
 var.100s <- lapply(list.of.depth.data.100s,calc.variance)

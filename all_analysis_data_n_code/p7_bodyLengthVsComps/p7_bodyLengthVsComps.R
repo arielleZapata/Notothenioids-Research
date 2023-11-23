@@ -7,12 +7,12 @@ library(rfishbase)
 library(phytools)
 
 # inputs
-source("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
-PCA <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/PCAcomps_OUTPUTS.csv") # csv of PCA data
-depth.data.filtered <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p2_pholomorpho+depthPlots/depth.data.filtered_OUTPUTS.csv") # csv of depth.data.filtered data
-fishBase.nameChange <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/fishBase_names.csv") # csv of name replacement for retrieving the fishbase data
-new.tree <- read.tree("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/notothenioid_timetree.tre") # import trimmed phylogenetic tree
-csv.names <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/updated_names.csv",header=FALSE) # csv of name replacement for tree
+source("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
+PCA <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/PCAcomps_OUTPUTS.csv") # csv of PCA data
+depth.data.filtered <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p2_pholomorpho+depthPlots/depth.data.filtered_OUTPUTS.csv") # csv of depth.data.filtered data
+fishBase.nameChange <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/fishBase_names.csv") # csv of name replacement for retrieving the fishbase data
+new.tree <- read.tree("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/notothenioid_timetree.tre") # import trimmed phylogenetic tree
+csv.names <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/updated_names.csv",header=FALSE) # csv of name replacement for tree
 
 # match PCA names to fishBase names
 pca.data <- PCA

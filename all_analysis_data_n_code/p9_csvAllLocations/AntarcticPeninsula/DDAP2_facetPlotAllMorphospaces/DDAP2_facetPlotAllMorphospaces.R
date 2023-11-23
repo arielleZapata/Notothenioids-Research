@@ -8,23 +8,23 @@ library(ggplot2)
 library(gridExtra)
 
 # inputs
-source("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
-PCA <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/PCAcomps_OUTPUTS.csv") # csv of PCA data
-new.tree <- read.tree("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/new.tree.tre") # import trimmed phylogenetic tree
+source("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
+PCA <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/PCAcomps_OUTPUTS.csv") # csv of PCA data
+new.tree <- read.tree("~/Notothenioids-Research/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/new.tree.tre") # import trimmed phylogenetic tree
 
-depth.0TO100 <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.0TO100_OUTPUTS.RData")
-depth.101TO200 <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.101TO200_OUTPUTS.RData")
-depth.201TO300 <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.201TO300_OUTPUTS.RData")
-depth.301TO400 <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.301TO400_OUTPUTS.RData")
-depth.401TO500 <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.401TO500_OUTPUTS.RData")
-depth.501TO600 <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.501TO600_OUTPUTS.RData")
-#depth.601TO700 <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.601TO700_OUTPUTS.RData")
-depth.701TO800 <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.701TO800_OUTPUTS.RData")
+depth.0TO100 <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.0TO100_OUTPUTS.RData")
+depth.101TO200 <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.101TO200_OUTPUTS.RData")
+depth.201TO300 <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.201TO300_OUTPUTS.RData")
+depth.301TO400 <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.301TO400_OUTPUTS.RData")
+depth.401TO500 <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.401TO500_OUTPUTS.RData")
+depth.501TO600 <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.501TO600_OUTPUTS.RData")
+#depth.601TO700 <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.601TO700_OUTPUTS.RData")
+depth.701TO800 <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.701TO800_OUTPUTS.RData")
 
-depth.0TO200 <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.0TO200_OUTPUTS.RData")
-depth.201TO400 <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.201TO400_OUTPUTS.RData")
-depth.401TO600 <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.401TO600_OUTPUTS.RData")
-depth.601TO800 <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.601TO800_OUTPUTS.RData")
+depth.0TO200 <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.0TO200_OUTPUTS.RData")
+depth.201TO400 <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.201TO400_OUTPUTS.RData")
+depth.401TO600 <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.401TO600_OUTPUTS.RData")
+depth.601TO800 <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.601TO800_OUTPUTS.RData")
 
 ## make facet plot for all morpho spaces by 100s
 space1_list <- make.morpho.depth(PCA,depth.0TO100,new.tree,title="Depth: 0-100")

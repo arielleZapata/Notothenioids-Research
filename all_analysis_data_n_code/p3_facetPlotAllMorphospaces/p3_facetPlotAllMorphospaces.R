@@ -7,10 +7,10 @@ library(phytools)
 library(gridExtra)
 
 # inputs
-source("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
-setwd("~/Notothenioids_research/repository/all_analysis_data_n_code/p2_pholomorpho+depthPlots") # location of all the R lists data
-PCA <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/pca.csv") # csv of PCA data
-new.tree <- read.tree("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/new.tree.tre") # import trimmed phylogenetic tree
+source("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
+setwd("~/Notothenioids-Research/all_analysis_data_n_code/p2_pholomorpho+depthPlots") # location of all the R lists data
+PCA <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/pca.csv") # csv of PCA data
+new.tree <- read.tree("~/Notothenioids-Research/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/new.tree.tre") # import trimmed phylogenetic tree
 
 depth.0TO100 <- readRDS("depth.0TO100_OUTPUTS.RData")
 depth.101TO200 <- readRDS("depth.101TO200_OUTPUTS.RData")
@@ -167,7 +167,7 @@ grid.arrange(grobs = plots2, ncol = 2)
 
 ## ----------outputs----------
 ### PDF
-setwd("~/Notothenioids_research/repository/all_analysis_data_n_code/p3_facetPlotAllMorphospaces")
+setwd("~/Notothenioids-Research/all_analysis_data_n_code/p3_facetPlotAllMorphospaces")
 pdf(file= "facetPhyloSpace100s+facetPhyloSpace200s_OUTPUTS.pdf")
 grid.arrange(grobs = plots1, ncol = 2, respect = TRUE)
 grid.arrange(grobs = plots2, ncol = 2)

@@ -7,14 +7,15 @@ library(rfishbase)
 library(phytools)
 
 # inputs
-source("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
-PCA <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/PCAcomps_OUTPUTS.csv") # csv of PCA data
-depth.data.filtered <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.data.filtered_OUTPUTS.csv") # csv of depth.data.filtered data
-fishBase.nameChange <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/fishBase_names.csv") # csv of name replacement for retrieving the fishbase data
-new.tree <- read.tree("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/new.tree.tre") # import trimmed phylogenetic tree
-csv.names <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/updated_names.csv",header=FALSE) # csv of name replacement for tree
+source("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
+PCA <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/PCAcomps_OUTPUTS.csv") # csv of PCA data
+depth.data.filtered <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.data.filtered_OUTPUTS.csv") # csv of depth.data.filtered data
+fishBase.nameChange <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/fishBase_names.csv") # csv of name replacement for retrieving the fishbase data
+new.tree <- read.tree("~/Notothenioids-Research/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/new.tree.tre") # import trimmed phylogenetic tree
+csv.names <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/updated_names.csv",header=FALSE) # csv of name replacement for tree
 
 # match PCA names to fishBase names
+colnames(depth.data.filtered)[colnames(depth.data.filtered) == "Taxon"] <- "Species"
 pca.data <- PCA
 size.data <- change.name.fishBase(depth.data.filtered)
 fishB.names <- fishBase.nameChange

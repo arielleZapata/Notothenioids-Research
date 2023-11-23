@@ -8,9 +8,9 @@ library(ggridges)
 library(dplyr)
 
 # inputs
-depth.data <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/ElephantIsland/depth.data.Elephant.Island.csv") # depth data for fish
-depth.data.filtered <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/ElephantIsland/DDEI1_pholomorpho+depthPlots/DDEI.depth.data.filtered_OUTPUTS.csv") # csv of depth.data.filtered data
-merged_data.revLog <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/ElephantIsland/DDEI6_bodyLengthVsComps/merged_data.csv") # csv of the fishbase length
+depth.data <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/ElephantIsland/depth.data.Elephant.Island.csv") # depth data for fish
+depth.data.filtered <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/ElephantIsland/DDEI1_pholomorpho+depthPlots/DDEI.depth.data.filtered_OUTPUTS.csv") # csv of depth.data.filtered data
+merged_data.revLog <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/ElephantIsland/DDEI6_bodyLengthVsComps/merged_data.csv") # csv of the fishbase length
 
 dev.new()
 ggplot(depth.data,aes(x= Depth,y=Taxon, fill = stat(x))) +

@@ -8,7 +8,7 @@ library(ggdist)
 library(tidyquant)
 
 # inputs
-depth.data.filtered <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/SouthShetlandIs/DDSSI1_pholomorpho+depthPlots/DDSSI1.depth.data.filtered_OUTPUTS.csv") # csv of depth.data.filtered data
+depth.data.filtered <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/SouthShetlandIs/DDSSI1_pholomorpho+depthPlots/DDSSI1.depth.data.filtered_OUTPUTS.csv") # csv of depth.data.filtered data
 
 # create a vector to store the group identities
 groups <- character(length(depth.data.filtered$Depth))
@@ -20,8 +20,8 @@ groups[depth.data.filtered$Depth >= 201 & depth.data.filtered$Depth <= 300] <- "
 groups[depth.data.filtered$Depth >= 301 & depth.data.filtered$Depth <= 400] <- "301to400"
 groups[depth.data.filtered$Depth >= 401 & depth.data.filtered$Depth <= 500] <- "401to500"
 groups[depth.data.filtered$Depth >= 501 & depth.data.filtered$Depth <= 600] <- "501to600"
-groups[depth.data.filtered$Depth >= 601 & depth.data.filtered$Depth <= 700] <- "601to700"
-groups[depth.data.filtered$Depth >= 701 & depth.data.filtered$Depth <= 800] <- "701to800"
+#groups[depth.data.filtered$Depth >= 601 & depth.data.filtered$Depth <= 700] <- "601to700"
+#groups[depth.data.filtered$Depth >= 701 & depth.data.filtered$Depth <= 800] <- "701to800"
 
 # add the group column to the data frame
 depth.data.filtered$group <- groups

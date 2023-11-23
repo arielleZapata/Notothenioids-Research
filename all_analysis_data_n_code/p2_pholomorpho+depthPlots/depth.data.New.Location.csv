@@ -29,7 +29,7 @@
 "60","#47-3","3/25/2022",-70.776956,-10.728617,"AGT","nototheniids_pleuragramma_antarcticum",697,"97.7",23,"F","2",697,23
 "61","#47-3","3/25/2022",-70.776956,-10.728617,"AGT","nototheniids_pleuragramma_antarcticum",697,"84.5",22,"F","2",697,22
 "62","#47-3","3/25/2022",-70.776956,-10.728617,"AGT","nototheniids_pleuragramma_antarcticum",697,"61.9",21,"M","2",697,21
-"63","#47-3","3/25/2022",-70.776956,-10.728617,"AGT","trematomus_lepidorhinus-trematominae ",697,"118.1",23.5,"F","1/2",697,23.5
+"63","#47-3","3/25/2022",-70.776956,-10.728617,"AGT","trematomus_lepidorhinus-trematominae",697,"118.1",23.5,"F","1/2",697,23.5
 "64","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","chionobathyscus_dewitti-channichthyidae",224,"2.2",7.5,"","",224,7.5
 "65","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","prionodraco_evansii-artedidraconidae",224,"1.9",8.5,"","",224,8.5
 "66","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","prionodraco_evansii-artedidraconidae",224,"1.7",7.5,"","",224,7.5
@@ -37,13 +37,11 @@
 "68","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","chionobathyscus_dewitti-channichthyidae",224,"0.7",5.5,"","",224,5.5
 "69","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","pagetopsis_macropterus-channichthyidae",224,"125.8",25.5,"M","1/2",224,25.5
 "70","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","trematomus_nicolai-trematominae",224,"254.8",27,"U","U",224,27
-"71","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","trematomus_scotti-trematominae",224,"10.8",11,"F","1",224,11
 "72","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","prionodraco_evansii-artedidraconidae",224,"7",11,"U","U",224,11
 "73","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","prionodraco_evansii-artedidraconidae",224,"13.6",13.5,"F","3/4",224,13.5
 "74","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","prionodraco_evansii-artedidraconidae",224,"12.4",13.5,"F","3/4",224,13.5
 "75","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","prionodraco_evansii-artedidraconidae",224,"8",12,"U","U",224,12
 "76","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","prionodraco_evansii-artedidraconidae",224,"9",13.5,"F","2",224,13.5
-"77","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","trematomus_scotti-trematominae",224,"10",10.5,"M","1",224,10.5
 "78","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","prionodraco_evansii-artedidraconidae",224,"10",13,"U","U",224,13
 "79","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","trematomus_hansoni-trematominae",224,"546.8",34.5,"F","3",224,34.5
 "80","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","racovitzia_glacialis-artedidraconidae",224,"31.8",21,"F","2/3",224,21
@@ -62,18 +60,15 @@
 "93","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","prionodraco_evansii-artedidraconidae",224,"5.7",11,"","",224,11
 "94","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","prionodraco_evansii-artedidraconidae",224,"7.4",11.5,"","",224,11.5
 "95","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","prionodraco_evansii-artedidraconidae",224,"2.4",8,"","",224,8
-"96","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","trematomus_scotti-trematominae",224,"9.9",10.2,"","",224,10.2
 "97","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","prionodraco_evansii-artedidraconidae",224,"<1",7.9,"","",224,7.9
 "98","#52-6","3/27/2022",-70.916736,-10.487635,"AGT","prionodraco_evansii-artedidraconidae",224,"7.5",11.5,"","",224,11.5
 "99","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","trematomus_loenbergii-trematominae",238,"6.3",10,"U","U",238,10
-"101","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","trematomus_scotti-trematominae",238,"11.3",11.2,"","",238,11.2
 "102","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","bathydraco_marri-bathydraconidae",238,"9.2",11,"","",238,11
 "105","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","nototheniid_dissostichus_mawsoni",238,"434.4",47,"F","3/4",238,47
 "106","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","trematomus_loenbergii-trematominae",238,"10.7",11.6,"U","U",238,11.6
 "107","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","prionodraco_evansii-artedidraconidae",238,"5.5",10.5,"F","1",238,10.5
 "108","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","cryodraco_antarcticus-channichthyidae",238,"155.9",34,"F","1",238,34
-"109","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","c_hamatus-artedidraconidae                            ",238,"808.5",49.5,"F","3/4",238,49.5
-"111","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","histiodraco_velifer-artedidraconidae                  ",238,"80.3",17.5,"F","2",238,17.5
+"111","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","histiodraco_velifer-artedidraconidae",238,"80.3",17.5,"F","2",238,17.5
 "112","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","prionodraco_evansii-artedidraconidae",238,"8.3",12.5,"F","2/3",238,12.5
 "114","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","prionodraco_evansii-artedidraconidae",238,"1.7",7.5,"","",238,7.5
 "115","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","prionodraco_evansii-artedidraconidae",238,"1.6",7.5,"","",238,7.5
@@ -94,7 +89,6 @@
 "132","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","racovitzia_glacialis-artedidraconidae",238,"3.5",13.9,"","",238,13.9
 "133","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","prionodraco_evansii-artedidraconidae",238,"0.6",6.2,"","",238,6.2
 "134","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","prionodraco_evansii-artedidraconidae",238,"6.1",11.8,"","",238,11.8
-"135","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","trematomus_scotti-trematominae",238,"8",10,"","",238,10
 "136","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","prionodraco_evansii-artedidraconidae",238,"0.4",5.5,"","",238,5.5
 "137","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","prionodraco_evansii-artedidraconidae",238,"0.5",6.2,"","",238,6.2
 "138","#53-6","3/28/2022",-70.873018,-10.492985,"AGT","prionodraco_evansii-artedidraconidae",238,"1.9",8.5,"","",238,8.5

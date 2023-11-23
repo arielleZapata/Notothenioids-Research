@@ -8,7 +8,7 @@ library(ggdist)
 library(tidyquant)
 
 # inputs
-depth.data.filtered <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.data.filtered_OUTPUTS.csv") # csv of depth.data.filtered data
+depth.data.filtered <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/AntarcticPeninsula/DDAP1_pholomorpho+depthPlots/DDAP.depth.data.filtered_OUTPUTS.csv") # csv of depth.data.filtered data
 
 # create a vector to store the group identities
 groups <- character(length(depth.data.filtered$Depth))

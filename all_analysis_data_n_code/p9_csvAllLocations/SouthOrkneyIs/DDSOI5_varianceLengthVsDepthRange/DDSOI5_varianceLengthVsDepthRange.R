@@ -3,9 +3,9 @@
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 # inputs
-source("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
-list.of.depth.data.100s <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/SouthOrkneyIs/DDSOI1_pholomorpho+depthPlots/DDSOI.listOfDepthData100s_OUTPUTS.RData")
-list.of.depth.data.200s <- readRDS("~/Notothenioids_research/repository/all_analysis_data_n_code/p9_csvAllLocations/SouthOrkneyIs/DDSOI1_pholomorpho+depthPlots/DDSOI.listOfDepthData200s_OUTPUTS.RData")
+source("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
+list.of.depth.data.100s <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/SouthOrkneyIs/DDSOI1_pholomorpho+depthPlots/DDSOI.listOfDepthData100s_OUTPUTS.RData")
+list.of.depth.data.200s <- readRDS("~/Notothenioids-Research/all_analysis_data_n_code/p9_csvAllLocations/SouthOrkneyIs/DDSOI1_pholomorpho+depthPlots/DDSOI.listOfDepthData200s_OUTPUTS.RData")
 
 # apply function to all the depth ranges by 100s
 var.100s <- lapply(list.of.depth.data.100s,calc.variance)
@@ -39,7 +39,7 @@ ggplot(var.200s,aes(x = x,y = y))+
 
 ## Outputs
 ### PDF
-pdf(file= "DDSOI.plot100svariance+plot200svariance_OUTPUTS.pdf")
+pdf(file= "DDSOI5.plot100svariance+plot200svariance_OUTPUTS.pdf")
 ggplot(var.100s,aes(x = x,y = y))+ 
   geom_segment(aes(x=x, xend=x, y=0, yend=y))+ 
   geom_point(size=5, color="purple", fill=alpha("pink", 0.3), alpha=0.7, shape=21, stroke=2) 

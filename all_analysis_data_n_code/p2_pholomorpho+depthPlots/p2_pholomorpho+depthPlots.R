@@ -9,12 +9,12 @@ library(geiger)
 library(splancs)
 
 # inputs
-source("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
-depth.data <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/CombinedAntarcticData.csv") # depth data for fish
-more.depth.data <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/Polarstern_2022_Fish_Sampled.csv")
-depthNameChange <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/FIXEDdepthNames.csv") # csv of name replacement for depth data
-PCA <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/PCAcomps_OUTPUTS.csv") # csv of PCA data
-new.tree <- read.tree("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/new.tree.tre") # import trimmed phylogenetic tree
+source("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/noto_functions.R")
+depth.data <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/CombinedAntarcticData.csv") # depth data for fish
+more.depth.data <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/Polarstern_2022_Fish_Sampled.csv")
+depthNameChange <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/FIXEDdepthNames.csv") # csv of name replacement for depth data
+PCA <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/PCAcomps_OUTPUTS.csv") # csv of PCA data
+new.tree <- read.tree("~/Notothenioids-Research/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data/new.tree.tre") # import trimmed phylogenetic tree
 
 # change depth data names to names in tree
 for (i in 1:length(depth.data$Taxon)){

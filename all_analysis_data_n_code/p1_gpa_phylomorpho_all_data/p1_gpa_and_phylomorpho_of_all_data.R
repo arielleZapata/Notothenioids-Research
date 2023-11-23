@@ -7,14 +7,14 @@ library(geomorph)
 library(phytools)
 
 #set wd to folder with needed content
-setwd("~/Notothenioids_research/repository/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data")
+setwd("~/Notothenioids-Research/all_analysis_data_n_code/p1_gpa_phylomorpho_all_data")
 
 # make variable for file locations
-tps.file <- "~/Notothenioids_research/repository/all_analysis_data_n_code/make_tps_files+combined_p_file/all_tps_file.tps" 
+tps.file <- "~/Notothenioids-Research/all_analysis_data_n_code/make_tps_files+combined_p_file/all_tps_file.tps" 
 
 # read in data
-fish <- read.tree("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/notothenioid_timetree.tre") # given phylo tree
-csv.names <- read.csv("~/Notothenioids_research/repository/all_analysis_data_n_code/p0_initial_files/updated_names.csv",header=FALSE) # csv of name replacement for tree
+fish <- read.tree("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/notothenioid_timetree.tre") # given phylo tree
+csv.names <- read.csv("~/Notothenioids-Research/all_analysis_data_n_code/p0_initial_files/updated_names.csv",header=FALSE) # csv of name replacement for tree
 
 # read the TPS file
 data <- readland.tps(tps.file,specID = c("None", "ID", "imageID"), negNA = FALSE,readcurves = FALSE, warnmsg = FALSE)
