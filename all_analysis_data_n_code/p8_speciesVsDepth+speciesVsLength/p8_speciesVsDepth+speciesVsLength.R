@@ -58,3 +58,20 @@ ggplot(smaller.than.max.df,aes(x=Length,y=Species,fill = after_stat(x))) +
   labs(title = "Length Distribution of Species") + 
   geom_jitter(width = .05, alpha = .3)
 dev.off() 
+
+library(viridis)
+my_blue_palette <- colorRampPalette(c("lightblue", "darkblue"))
+
+pdf(file = "p8.speciesVsDepth+speciesVsLength_OUTPUTS2.pdf")
+ggplot(depth.data.filtered, aes(x = Depth, y = Species, fill = stat(x))) +
+  geom_density_ridges_gradient(scale = 3, rel_min_height = 0.01, palette = my_blue_palette) +
+  scale_fill_gradientn(colors = my_blue_palette(100), limits = c(min(depth.data.filtered$Depth), max(depth.data.filtered$Depth)), guide = "colorbar") +
+  labs(title = "Species by Depth")
+dev.off()
+
+
+
+
+
+
+

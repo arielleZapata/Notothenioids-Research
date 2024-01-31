@@ -168,7 +168,7 @@ grid.arrange(grobs = plots2, ncol = 2)
 ## ----------outputs----------
 ### PDF
 setwd("~/Notothenioids-Research/all_analysis_data_n_code/p3_facetPlotAllMorphospaces")
-pdf(file= "facetPhyloSpace100s+facetPhyloSpace200s_OUTPUTS.pdf")
+pdf(file= "facetPhyloSpace100s+facetPhyloSpace200s_OUTPUTS.pdf",width = 15, height = 15)
 grid.arrange(grobs = plots1, ncol = 2, respect = TRUE)
 grid.arrange(grobs = plots2, ncol = 2)
 dev.off() 
