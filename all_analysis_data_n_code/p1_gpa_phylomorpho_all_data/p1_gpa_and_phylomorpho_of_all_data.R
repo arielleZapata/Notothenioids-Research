@@ -162,22 +162,57 @@ ggplot(depth.data.filtered, aes(x = Depth, y = Species, fill = stat(x))) +
 dev.off()
 
 
-
-# Assuming depth.data.filtered and fish.phylo are already loaded as shown in the original code
-
-# Extract unique species names from the depth data
-species_from_depth_data <- unique(depth.data.filtered$Species)
-
-# Load the phylogenetic tree
-fish.phylo <- read.tree("path/to/your/phylogenetic/tree/file.tre")
-
-# Potentially prune the tree to contain only the species present in the depth data
-pruned_tree <- drop.tip(fish.phylo, fish.phylo$tip.label[!(fish.phylo$tip.label %in% species_from_depth_data)])
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+library(ggplot2)
+library(ggridges)
+library(dplyr)
+library(viridis)
+library(phytools)
+library(ape)
 
 
+# number of data points for each species
+species_counts <- depth.data.filtered %>%
+  group_by(Species) %>%
+  summarise(Count = n())
+
+visibility_threshold = 10
+
+# species below the visibility threshold
+invisible_species <- species_counts %>%
+  filter(Count < visibility_threshold) %>%
+  pull(Species)
+
+# filter  the invisible species from the dataset
+depth.data.filtered <- depth.data.filtered %>%
+  filter(!(Species %in% invisible_species))
+
+# species_order based on the filtered dataset
+species_order <- depth.data.filtered %>%
+  distinct(Species) %>%
+  pull(Species)
+
+# tree only contains species present in the updated dataset
+new.tree <- drop.tip(new.tree, setdiff(new.tree$tip.label, species_order))
+
+# dataset only contains species present in the updated tree
+depth.data.filtered <- depth.data.filtered %>%
+  filter(Species %in% new.tree$tip.label) %>%
+  mutate(Species = factor(Species, levels = new.tree$tip.label))
 
 
-# Example renaming, assuming you have a dataframe `name_mapping` with columns 'TreeName' and 'DepthDataName'
-for(i in 1:nrow(name_mapping)) {
-  pruned_tree$tip.label[pruned_tree$tip.label == name_mapping$TreeName[i]] <- name_mapping$DepthDataName[i]
-}
+my_blue_palette <- colorRampPalette(c("lightblue", "darkblue"))
+
+# Generate the plot
+pdf(file = "revised_speciesVsDepth.pdf")
+plot(new.tree)
+ggplot(depth.data.filtered, aes(x = Depth, y = Species, fill = stat(x))) +
+  geom_density_ridges_gradient(scale = 3, rel_min_height = 0.01, palette = my_blue_palette) +
+  scale_fill_gradientn(colors = my_blue_palette(100),
+                       limits = c(min(depth.data.filtered$Depth, na.rm = TRUE),
+                                  max(depth.data.filtered$Depth, na.rm = TRUE)),
+                       guide = "colorbar") +
+  labs(title = "Species by Depth") +
+  theme(axis.text.y = element_text(size = 5))
+
+dev.off()
